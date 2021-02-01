@@ -2,7 +2,7 @@
 title: "Glassy Dynamics in a Disordered Heisenberg Quantum Spin System"
 date: 2021-01-01
 publishDate: 2021-02-01T08:00:16.790948Z
-authors: ["A. Signoles", "T. Franz", "R. Ferracini Alves", "M. Gärttner", "S. Whitlock", "G. Z̈̊n", "M. Weidem\"l̈er"]
+authors: ["A. Signoles", "T. Franz", "R. Ferracini Alves", "M. Gärttner", "S. Whitlock", "G. Zürn", "M. Weidemüller"]
 publication_types: ["2"]
 abstract: ""
 featured: false

@@ -2,7 +2,7 @@
 title: "Full Counting Statistics of Laser Excited Rydberg Aggregates in a One-Dimensional Geometry"
 date: 2014-01-01
 publishDate: 2021-02-01T08:00:16.798024Z
-authors: ["H. Schempp", "G. Günter", "M. Robert-de-Saint-Vincent", "C. S. Hofmann", "D. Breyel", "A. Komnik", "D. W. Sch\n̈leber", "M. G\"ẗtner", "J. Evers", "S. Whitlock", "M. Weidem\"uër"]
+authors: ["H. Schempp", "G. Günter", "M. Robert-de-Saint-Vincent", "C. S. Hofmann", "D. Breyel", "A. Komnik", "D. W. Schönleber", "M. Gärttner", "J. Evers", "S. Whitlock", "M. Weidemüller"]
 publication_types: ["2"]
 abstract: ""
 featured: false
