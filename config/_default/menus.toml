@@ -9,8 +9,8 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
-  url = "post"
+  name = "Research"
+  url = "research"
   weight = 20
 
 [[main]]
@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Events"
-  url = "event"
+  name = "Teaching"
+  url = "teaching"
   weight = 40
 
 [[main]]
