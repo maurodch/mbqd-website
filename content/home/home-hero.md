@@ -11,5 +11,7 @@ subtitle: Many-Body Quantum Dynamics
 active: false
 design:
   columns: "1"
+  background:
+    image: gruppenbild_300720.png
 hero_media: welcome.jpg
 ---
