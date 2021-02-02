@@ -8,7 +8,7 @@ weight: 10  # Order that this section will appear.
 active: true
 title: "Gärttner Research Group"
 subtitle: "Many-body Qunatum Dynamics"
-hero_media: gruppenbild_300720.png
+hero_media: "gruppenbild_300720.png"
 #design:
 #  # Choose how many columns the section has. Valid values: 1 or 2.
 #  columns: '1'
