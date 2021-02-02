@@ -11,9 +11,9 @@ hero_media: gruppenbild_300720.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-advanced:
-  css_style:
-  css_class:
+#advanced:
+#  css_style:
+#  css_class:
   
 [cta]
   url = "publication"
