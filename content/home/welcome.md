@@ -14,7 +14,7 @@ weight = 10  # Order that this section will appear.
 title = "Many-body Quantum Dynamics"
 hero_media = "gruppen_bild300720.png"
 [design]
-  columns: "1" # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1" # Choose how many columns the section has. Valid values: 1 or 2.
 
 [cta]
   url = "publication"
