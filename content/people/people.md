@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 10
 
 title: Meet the Team
 subtitle:
@@ -18,12 +18,10 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
-  - Grad Students
-  - Administration
-  - Visitors
-  - Alumni
 design:
   show_interests: false
   show_role: true
   show_social: true
 ---
+
+We are always looking for motivated students! Please look at [Contacts](/contact) to get in touch!
