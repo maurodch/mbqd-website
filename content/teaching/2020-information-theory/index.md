@@ -25,6 +25,17 @@ image:
   focal_point: ""
   preview_only: false
 
+links:
+  - icon_pack: fas
+    icon: arrow-circle-right
+    name: Homepage
+    url: 'https://uebungen.physik.uni-heidelberg.de/v/1123'
+  - icon_pack: fas
+    icon: arrow-circle-right
+    name: LSF
+    url: 'https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=317833&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung'
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
