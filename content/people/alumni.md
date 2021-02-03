@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 design:
- - columns: 1
+  columns: 1
 
 title:
 subtitle:
