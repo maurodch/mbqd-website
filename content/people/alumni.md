@@ -9,9 +9,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Former members
+design:
+ - columns: 1
+
+title:
 subtitle:
 ---
+## Former members
 
  - Bjarne Bergh (Master October 2020), now at Cambridge University
  - Leander Haase (Bachelor September 2020), now master student in Heidelberg
