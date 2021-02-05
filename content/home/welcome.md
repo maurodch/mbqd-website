@@ -12,7 +12,32 @@ active = true
 weight = 10  # Order that this section will appear.
 
 title = "Many-body Quantum Dynamics"
-hero_media = "gruppenbild_300720.png"
+hero_media = ""
+
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+
+  # Background gradient.
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
+
+  # Background image.
+  image = "welcome.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.25  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
+
+  # Text color (true=light or false=dark).
+  text_color_light = true
+
+
 [design]
   columns = "1" # Choose how many columns the section has. Valid values: 1 or 2.
 
@@ -27,4 +52,4 @@ hero_media = "gruppenbild_300720.png"
   label = "Join the team"
 +++
 
-We tackle the notoriously hard problem of simulating quantum many-body systems using different approaches and close collaboration with experiments.
+We tackle the notoriously hard problem of simulating quantum many-body systems using different approaches and collaborating closely with experiments.
