@@ -10,8 +10,27 @@
 
 [[main]]
   name = "Research"
-  url = "research"
+  identifier = "research"
   weight = 20
+
+[[main]]
+  name = "Overview"
+  url = "research"
+  parent = "research"
+  weight = 10
+
+
+[[main]]
+  name = "Publications"
+  url = "publication"
+  parent = "research"
+  weight = 20
+
+[[main]]
+  name = "Talks & Posters"
+  url = "talk"
+  parent = "research"
+  weight = 30
 
 [[main]]
   name = "People"
@@ -24,16 +43,11 @@
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "publication"
-  weight = 50
-
-[[main]]
   name = "Blog"
   url = "post"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 70
+  weight = 60
