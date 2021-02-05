@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Detecting Bell correlations in a Bose-Einstein condensate'
-event: 'DPG Frühjahrstagung Hannover 2020'
+title: Detecting Bell correlations in a Bose-Einstein condensate
+event: DPG Frühjahrstagung Hannover 2020
 event_url: https://hannover20.dpg-tagungen.de
-subtitle: ''
-summary: 'We propose a protocol to demonstrate Bell entanglement using a split two-mode squeezed state in a BEC.'
+# subtitle: 
+summary: We propose a protocol to demonstrate Bell entanglement using a split two-mode squeezed state in a BEC.
 authors:
 - braemer
 - gaerttner
 tags: ['Poster']
 categories: 'Poster'
-date: '2020-3-8'
+date: '2020-03-08'
 featured: false
 draft: false
 

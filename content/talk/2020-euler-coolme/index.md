@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Certification of High-Dimensional Entanglement in Ultracold Atom Systems'
-event: 'CoolMe 2020'
+title: Certification of High-Dimensional Entanglement in Ultracold Atom Systems
+event: CoolMe 2020
 event_url: https://coolme2020.sciencesconf.org/
-subtitle: ''
-summary: 'We discuss how to certify high-dimensional entanglement in cold atomic systems.'
+# subtitle: 
+summary: We discuss how to certify high-dimensional entanglement in cold atomic systems.
 authors:
 - euler
 - gaerttner
 tags: ['Poster']
 categories: 'Poster'
-date: '2020-3-8'
+date: '2020-03-08'
 featured: false
 draft: false
 

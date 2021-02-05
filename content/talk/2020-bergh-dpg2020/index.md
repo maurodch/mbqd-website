@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Quantifying Entanglement in Bose-Einstein-Condensates using Entropic Uncertainty Relations'
-event: 'DPG Frühjahrstagung Hannover 2020'
+title: Quantifying Entanglement in Bose-Einstein-Condensates using Entropic Uncertainty Relations
+event: DPG Frühjahrstagung Hannover 2020
 event_url: https://hannover20.dpg-tagungen.de
-subtitle: ''
-summary: 'We present our results on using entropic uncertainty relations for entanglement quantification in BECs.'
+# subtitle: 
+summary: We present our results on using entropic uncertainty relations for entanglement quantification in BECs.
 authors:
 - Bjarne Bergh
 - gaerttner
 tags: ['Poster']
 categories: 'Poster'
-date: '2020-3-8'
+date: '2020-03-08'
 featured: false
 draft: false
 

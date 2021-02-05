@@ -1,16 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Experimental detection of out-of-time-order correlators'
-event: ''
-event_url: 
-subtitle: ''
-summary: 'We discuss different approach to measure OTOCs in cold atomic systems.'
+title: Experimental detection of out-of-time-order correlators
+# subtitle: 
+summary: We discuss different approach to measure OTOCs in cold atomic systems.
 authors:
 - gaerttner
 tags: ['Poster']
 categories: 'Poster'
-date: '2020-3-8'
+date: '2020-03-08'
 featured: false
 draft: false
 
