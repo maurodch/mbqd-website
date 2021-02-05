@@ -52,4 +52,4 @@ hero_media = ""
   label = "Join the team"
 +++
 
-We tackle the notoriously hard problem of simulating quantum many-body systems using different approaches and close collaboration with experiments.
+We tackle the notoriously hard problem of simulating quantum many-body systems using different approaches and collaborating closely with experiments.
