@@ -11,7 +11,7 @@ weight: 30
 
 gallery_item:
  - album: grouppics
-   image: grouppics/group_20200730.png
+   image: grouppics/group_20200730.jpg
    caption: Group meeting at the Neckarwiese in summer 2020
  - album: grouppics
    image: grouppics/group_20200504.jpg
