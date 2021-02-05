@@ -11,14 +11,14 @@ weight: 30
 
 gallery_item:
  - album: grouppics
-   image: group_20200730.png
+   image: grouppics/group_20200730.png
    caption: Group meeting at the Neckarwiese in summer 2020
  - album: grouppics
-   image: group_20200504.jpg
+   image: grouppics/group_20200504.jpg
    caption: Virtual group meetings during Corona in spring 2020
  - album: grouppics
-   image: group_20200504_masks.jpg
+   image: grouppics/group_20200504_masks.jpg
    caption: Staying extra safe during Corona in spring 2020
 ---
 
-{{< gallery >}}
+{{< gallery album="grouppics" >}}
