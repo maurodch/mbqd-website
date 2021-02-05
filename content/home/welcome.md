@@ -12,7 +12,7 @@ active = true
 weight = 10  # Order that this section will appear.
 
 title = "Many-body Quantum Dynamics"
-hero_media = welcome.png
+hero_media = "welcome.png"
 [design]
   columns = "1" # Choose how many columns the section has. Valid values: 1 or 2.
 
