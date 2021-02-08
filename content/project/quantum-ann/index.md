@@ -1,5 +1,5 @@
 ---
-title: Artificial neural network representations of quantum states
+title: Neural networks in quantum many-body physics
 summary: Use artificial neural networks to efficiently represent quantum states
 
 # Short title used in page links (if not set, defaults to title)
@@ -7,7 +7,11 @@ title_short: ANN
 
 authors:
 - gaerttner
-
+- syrkowski
+- reh
+- klassert
+- euler
+- epping
 
 # Determines ordering of projects
 weight: 4
@@ -44,4 +48,5 @@ slides: ""
 math: true
 ---
 
-Artificial neural networks have proven extremely successful for machine learning tasks such as computer vision and speech recognition. Recently, reinforcement learning techniques have been applied for calculating the ground states and time evolution of quantum many-body problems (Science 355, 602 (2017)). Motivated by these findings we try to develop novel numerical techniques for solving the quantum many-body problem using machine learning techniques with a focus on artificial neural networks.
+Artificial neural networks have proven extremely successful for machine learning tasks such as computer vision and speech recognition. Specifically, generative models can be trained to approximate probability distributions based on data samples. Quantum states are represented by high-dimensional probability distributions, inviting the use of generative models for finding efficient state representations. We use this approach to develop numerical tools for calculating the time evolution of quantum many-body states and to do quantum state tomography. Furthermore, we exploit, the power of neuromorphic hardware chips which allow the physical emulation of neural networks and thus provide a tool for fast and energy efficient generation of samples from the encoded probability distributions.
+
