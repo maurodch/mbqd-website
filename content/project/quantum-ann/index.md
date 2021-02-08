@@ -12,6 +12,7 @@ authors:
 - klassert
 - euler
 - epping
+- schmale
 
 # Determines ordering of projects
 weight: 4
