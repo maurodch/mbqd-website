@@ -1,5 +1,5 @@
 ---
-title: Entanglement generation and detection
+title: Entanglement detection
 summary: Harnessing quantum correlations
 
 # Short title used in page links (if not set, defaults to title)
@@ -7,7 +7,7 @@ title_short: Entanglement
 
 authors:
 - gaerttner
-
+- stockdale
 
 # Determines ordering of projects
 weight: 1
@@ -44,4 +44,5 @@ slides: ""
 math: true
 ---
 
-According to Erwin Schrödinger entanglement is the characteristic treat of quantum mechanics. It can be understood as some sort of correlation that seems to be incompatible with our intuitive classical understanding of correlations between spatially separated particles. Also, it has been realized that entanglement can be considered as a resource that enables applications such as quantum cryptography and quantum computing to outperform their classical counterparts. Motivated by both the fundamental and applied aspects we seek to develop new techniques to create and detect entanglement in clouds of ultracold atoms. A recent breakthrough was the detection of EPR steering in a spinor Bose-Einstein condensate. This experiment proves that non-local entanglement is naturally created in ultracold atomic clouds and can be made accessible by techniques as simple as expanding a condensate in a wave guide potential. For more details check out our recent [preprint](https://arxiv.org/abs/1708.02407).
+Entanglement, which Erwin Schrödinger coined the characteristic treat of quantum mechanics, is the resource that renders many quantum technologies superior to their classical counterparts. At the same time entanglement is at the heart of many physical phenomena. For example, it explains why interacting quantum systems, even when perfectly isolated from their environment, can relax to thermal equilibrium. Thus, techniques for detecting and quantifying entanglement based on experimental data are direly needed. We develop such techniques with a special focus on the application to experiments with ultra-cold atoms.
+

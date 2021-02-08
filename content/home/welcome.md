@@ -52,4 +52,4 @@ hero_media = ""
   label = "Join the team"
 +++
 
-We tackle the notoriously hard problem of simulating quantum many-body systems using different approaches and collaborating closely with experiments.
+We investigate collective phenomena emerging in quantum many-body systems through numerical modelling and quantum simulation experiments.
