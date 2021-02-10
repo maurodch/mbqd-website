@@ -167,18 +167,14 @@
   text-align: start;
 }
 
-div.project-card{
-  height: 483px;
+/* Make the project boxes all the same height, independent of actual content to look nicer */
+@media screen and (max-width: 768px) {
+  div.project-card{
+    height: 483px;
+  }
+
+  div.project-card > div.card {
+    height: 100%;
+  }
 }
-
-div.project-card > div.card {
-  height: 100%;
-}
-
-/* Element | https://mbqd.netlify.app/ 
-
-div.card-text {
-  bottom: 50%;
-}*/
-
 
