@@ -10,7 +10,6 @@ authors:
 - syrkowski
 - reh
 - klassert
-- euler
 - epping
 - schmale
 
