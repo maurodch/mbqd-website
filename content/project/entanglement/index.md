@@ -8,6 +8,7 @@ title_short: Entanglement
 authors:
 - gaerttner
 - stockdale
+- euler
 
 # Determines ordering of projects
 weight: 1
