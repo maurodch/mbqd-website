@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- physical-computation
+- quantum-ann
 publishDate: '2021-01-22T09:35:15.940676Z'
 publication_types:
 - '2'
