@@ -10,7 +10,8 @@ authors:
 - gaerttner
 - gasenzer
 tags: []
-categories: []
+categories:
+- quantum-ann
 date: '2018-07-01'
 lastmod: 2021-01-22T10:35:18+01:00
 featured: false
