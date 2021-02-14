@@ -10,8 +10,7 @@ authors:
 - gaerttner
 - gasenzer
 tags: []
-categories:
-- quantum-ann
+categories: []
 date: '2018-07-01'
 lastmod: 2021-01-22T10:35:18+01:00
 featured: false
@@ -30,7 +29,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+- quantum-ann
 publishDate: '2021-01-22T09:35:17.806597Z'
 publication_types:
 - '2'
