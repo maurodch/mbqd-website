@@ -15,7 +15,6 @@ design:
 title: We are part of...
 subtitle:
 ---
-## Networks
 We collaborate closely with other experimental and theoretical groups within the Synthetic Quantum Systems (SynQS) collaboration.
 
 We are a member of the Collaborative Research Center ISOQUANT.
