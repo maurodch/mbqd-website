@@ -12,14 +12,28 @@ weight: 40
 design:
   columns: 2
 
-title: We are part of...
+title: Affiliations
 subtitle:
 ---
-We collaborate closely with other experimental and theoretical groups within the Synthetic Quantum Systems (SynQS) collaboration.
-
-We are a member of the Collaborative Research Center ISOQUANT.
-
-We are a member of the Cluster of Excellence STRUCTURES.
+<div class="img-row">
+  <div class="img-column3">
+    <a href="https://synqs.org">
+      <img src="/logos/synqs.png" alt="SynQS group">
+    </a>
+  </div>
+  
+  <div class="img-column3">
+    <a href="https://www.isoquant-heidelberg.de/">
+      <img src="/logos/isoquant.jpg" alt="SFB 1225 ISOQUANT">
+    </a>
+  </div>
+  
+  <div class="img-column3">
+    <a href="https://www.structures.uni-heidelberg.de/">
+      <img src="/logos/structures1.png" alt="Cluster of Excellence STRUCTURES">
+    </a>
+  </div>
+</div>
 
 We participate in the competence network Quantum Technologies – Baden-Württemberg.
 

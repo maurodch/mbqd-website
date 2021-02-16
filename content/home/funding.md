@@ -16,7 +16,7 @@ title: Funding
 subtitle:
 ---
 {{< figure library="true" src="logos/isoquant.jpg">}}
-{{< figure library="true" src="logos/bw_stiftung.jpg">}}
+{{< figure library="true" src="logos/bw_stiftung.png">}}
 
 We are funded by the DFG within the Collaborative Research Center ISOQUANT (SFB 1225) and by the Baden-Württemberg foundation within the competence network Quantum Technologies – Baden-Württemberg, Project “NeuroQuant”.
 
