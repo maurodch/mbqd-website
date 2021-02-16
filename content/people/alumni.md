@@ -12,7 +12,7 @@ weight: 30
 design:
   columns: 2
 
-title:Former members
+title: Former members
 subtitle:
 ---
  - Bjarne Bergh (Master October 2020), now at Cambridge University
