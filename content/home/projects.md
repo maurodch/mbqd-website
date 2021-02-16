@@ -34,7 +34,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -64,7 +64,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  # text_color_light = true
 
 [advanced]
  # Custom CSS.
@@ -74,4 +74,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Go ahead and find out more about our research topics by clicking on the project cards below.
+Emerging quantum technologies will potentially transform important technological areas such as computing, communication, and sensing. What fascinates us as physicists is that many phenomena that arise when many particles interact at the quantum level are still poorly understood. Nevertheless these phenomena, such as entanglement, are what actually makes quantum devices potentially so powerful, and their better understanding is thus key. Towards this goal we develop analytical and numerical tools to model and simulate quantum many-body systems and search for efficient ways to prepare and probe interesting quantum states of matter.
+
