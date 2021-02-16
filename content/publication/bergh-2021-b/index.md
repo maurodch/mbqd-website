@@ -34,6 +34,6 @@ publication_types:
 - '2'
 abstract: 'Entanglement is not only the resource that fuels many quantum technologies but also plays a key role for some of the most profound open questions of fundamental physics. Experiments controlling quantum systems at the single quantum level may shed light on these puzzles. However, measuring, or even bounding, entanglement experimentally has proven to be an outstanding challenge, especially when the prepared quantum states are mixed. We use entropic uncertainty relations for bipartite systems to derive measurable lower bounds on distillable entanglement. We showcase these bounds by applying them to physical models realizable in cold-atom experiments. The derived entanglement bounds rely on measurements in only two different bases and are generically applicable to any quantum simulation platform. '
 publication: 'ArXiv Preprint'
-url_pdf: https://arxiv.org/pdf/2101.08848
+url_pdf: https://arxiv.org/pdf/2101.08847
 doi: 
 ---
