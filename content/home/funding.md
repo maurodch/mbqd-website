@@ -23,7 +23,7 @@ subtitle:
   </div>
   
   <div class="img-column3">
-    <a href="https://www.bwstiftung.de/de/">
+    <a href="hhttps://www.bwstiftung.de/de/programm/quantentechnologie/">
       <img src="/logos/bw_stiftung.png" alt="Baden-Württemberg foundation, Project 'NeuroQuant'">
     </a>
   </div>
