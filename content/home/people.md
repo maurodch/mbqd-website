@@ -21,7 +21,7 @@ content:
 design:
   show_interests: false
   show_role: true
-  show_social: true
+  show_social: false
 ---
 
 We are always looking for motivated students! Please look at [Contacts](/contact) to get in touch!
