@@ -3,11 +3,15 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
 
+title: Gallery
+
+design:
+  columns: 2
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 gallery_item:
  - album: grouppics

@@ -1,6 +1,6 @@
 ---
-title: Dynamics of disordered quantum spin systems
-summary: Dynamics of disordered quantum spin systems
+title: Disordered spin systems
+summary: Understanding the dynamics of disordered quantum spins
 
 # Short title used in page links (if not set, defaults to title)
 title_short: Disordered Systems

@@ -1,6 +1,6 @@
 ---
 title: Entanglement detection
-summary: Harnessing quantum correlations
+summary: Certifying and quantifying entanglement in experimental data
 
 # Short title used in page links (if not set, defaults to title)
 title_short: Entanglement

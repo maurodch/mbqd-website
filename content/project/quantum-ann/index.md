@@ -1,6 +1,6 @@
 ---
-title: Neural networks in quantum many-body physics
-summary: Use artificial neural networks to efficiently represent quantum states
+title: Neural quantum states
+summary: Using neural networks as efficient quantum state representations
 
 # Short title used in page links (if not set, defaults to title)
 title_short: ANN

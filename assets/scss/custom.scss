@@ -167,8 +167,9 @@
   text-align: start;
 }
 
+
 /* Make the project boxes all the same height, independent of actual content to look nicer */
-@media screen and (min-width: 768px) {
+/*@media screen and (min-width: 768px) {
   div.project-card{
     height: 483px;
   }
@@ -176,5 +177,5 @@
   div.project-card > div.card {
     height: 100%;
   }
-}
+}*/
 

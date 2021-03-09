@@ -7,16 +7,14 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 design:
-  columns: 1
+  columns: 2
 
-title:
+title: Former members
 subtitle:
 ---
-## Former members
-
  - Bjarne Bergh (Master October 2020), now at Cambridge University
  - Leander Haase (Bachelor September 2020), now master student in Heidelberg
  - Linda Shen (PhD 2020, co-supervision with J. Berges), now at RWE

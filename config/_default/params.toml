@@ -74,7 +74,7 @@ diagram = false
 privacy_pack = true
 
 # Show related content at the bottom of pages?
-show_related = {post = true, project = true, publication = true, talk = true}
+show_related = {post = true, project = false, publication = true, talk = false}
 
 ############################
 ## Contact details
