@@ -25,3 +25,5 @@ design:
 ---
 
 We are always looking for motivated students! Please look at [Contacts](/contact) to get in touch!
+
+We have currently [3 open PhD positions!](/job-offer)
