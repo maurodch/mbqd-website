@@ -1,7 +1,7 @@
 ---
 title: 'Quantum computing and quantum information'
 subtitle: 'Summer semester 2021'
-summary: "ToDo"
+summary: "This lecture gives an introduction to topics related to quantum computing and quantum information theory."
 authors:
 - gaerttner
 
@@ -43,4 +43,27 @@ links:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-ToDo
+
+This lecture gives an introduction to topics related to quantum computing and quantum information theory. Video material will be complemented by homework exercises, including programming exercises, and tutorial sessions.
+
+Topics include:
+- Quantum circuit model: states, operations and measurement
+- Quantum algorithms
+- Quantum computational complexity classes
+- Quantum channels, noise and decoherence
+- Quantum error correction and fault tolerant quantum computing
+- Quantum computing hardware overview
+- Quantum information theory: basic concepts
+
+Dates and time: Mondays 14-16h, online on zoom (link will we provided in the exercise group system)
+
+Courese requirements: Basics knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
+
+Mode of examination: The grade will be based on a written exam.
+
+Literature:
+- Nilesen and Chuang: Quantum computation and quantum information 
+- Watrous: The Theory of Quantum Information
+- Wilde: From Classical to Quantum Shannon Theory
+- Bengtsson: Quantum Computation: A Computer Science Perspective
+- Lecture notes of <a href="http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html">John Preskill</a> (http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html)
