@@ -65,5 +65,5 @@ Literature:
 - Nilesen and Chuang: Quantum computation and quantum information 
 - Watrous: The Theory of Quantum Information
 - Wilde: From Classical to Quantum Shannon Theory
-- Bengtsson: Quantum Computation: A Computer Science Perspective
+- Bengtsson and Życzkowski: Geometry of Quantum States
 - Lecture notes of <a href="http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html">John Preskill</a>
