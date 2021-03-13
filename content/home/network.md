@@ -26,7 +26,7 @@ Our group is located at the Kirchhoff-Institute for Physics at the University of
   
   <div class="img-column3">
     <a href="https://www.physi.uni-heidelberg.de/">
-      <img src="/logos/pi.jpg" alt="PI">
+      <img src="/logos/pi.jpg" alt="PI" style="width: 50vw">
     </a>
   </div>
   
