@@ -16,7 +16,7 @@ weight: 40
 gallery_item:
 
  - album: grouppics
-   image: grouppics/group_hike_20201010.jpg
+   image: grouppics/group_hike_20201010.jpeg
    caption: "Group hike to Heiligenberg and Weißenstein fall 2020"
  - album: grouppics
    image: grouppics/group_20200730.jpg
