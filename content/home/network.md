@@ -26,7 +26,7 @@ Our group is located at the Kirchhoff-Institute for Physics at the University of
   
   <div class="img-column3">
     <a href="https://www.physi.uni-heidelberg.de/">
-      <img src="/logos/pi.jpg" alt="PI" style="width: 50vw">
+      <img src="/logos/pi.jpg" alt="PI" style="width: 50vw;">
     </a>
   </div>
   
@@ -64,7 +64,7 @@ We are funded by the DFG within the Collaborative Research Center ISQOQUANT (SFB
   </div>
 </div>
   
-We are funded by the Baden-Würtemberg foundation within the competence network Quantum Technologies Baden-Württemberg, where we investigate methods for verifying quantum simulators in collaboration with the group of Alexey Ustinov at KIT.
+We are funded by the Baden-Württemberg foundation within the competence network Quantum Technologies Baden-Württemberg, where we investigate methods for verifying quantum simulators in collaboration with the group of Alexey Ustinov at KIT.
 
 <div class="img-row">
   <div class="img-column3">
