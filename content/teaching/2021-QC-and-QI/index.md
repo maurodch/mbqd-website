@@ -55,7 +55,7 @@ Topics include:
 - Quantum computing hardware overview
 - Quantum information theory: basic concepts
 
-Dates and time: Mondays 14-16h, online on zoom (link will we provided in the exercise group system)
+Dates and time: Mondays 14-16h, online on zoom (link will we provided in the exercise group system), Tutorials: Wedneday and Thursday afternoon
 
 Courese requirements: Basics knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
 
@@ -66,4 +66,4 @@ Literature:
 - Watrous: The Theory of Quantum Information
 - Wilde: From Classical to Quantum Shannon Theory
 - Bengtsson: Quantum Computation: A Computer Science Perspective
-- Lecture notes of <a href="http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html">John Preskill</a> (http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html)
+- Lecture notes of <a href="http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html">John Preskill</a>
