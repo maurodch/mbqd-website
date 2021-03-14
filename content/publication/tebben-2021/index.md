@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Entanglement detection in quantum many-body systems using entropic uncertainty relations
+title: Nonlinear absorption in interacting Rydberg EIT spectra on two-photon resonance
 subtitle: ''
 summary: ''
 authors:
