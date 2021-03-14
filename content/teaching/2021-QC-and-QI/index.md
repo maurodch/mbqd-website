@@ -55,7 +55,7 @@ Topics include:
 - Quantum computing hardware overview
 - Quantum information theory: basic concepts
 
-Dates and time: Mondays 14-16h, online on zoom (link will be provided in the exercise group system), Tutorials: Wednesday and Thursday afternoon
+Dates and time: Mondays 14:16-16:00h, online on zoom (link will be provided in the exercise group system), first session on 12.04.2021, Tutorials: Wednesday and Thursday 16:15-18:00h
 
 Course requirements: Basics knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
 
