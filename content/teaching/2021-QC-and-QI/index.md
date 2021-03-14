@@ -47,7 +47,7 @@ projects: []
 This lecture gives an introduction to topics related to quantum computing and quantum information theory. Video material will be complemented by homework exercises, including programming exercises, and tutorial sessions.
 
 Topics include:
-- Quantum circuit model: states, operations and measurement
+- Quantum circuit model: states, operations and measurements
 - Quantum algorithms
 - Quantum computational complexity classes
 - Quantum channels, noise and decoherence
@@ -55,14 +55,14 @@ Topics include:
 - Quantum computing hardware overview
 - Quantum information theory: basic concepts
 
-Dates and time: Mondays 14-16h, online on zoom (link will we provided in the exercise group system), Tutorials: Wedneday and Thursday afternoon
+Dates and time: Mondays 14-16h, online on zoom (link will be provided in the exercise group system), Tutorials: Wednesday and Thursday afternoon
 
-Courese requirements: Basics knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
+Course requirements: Basics knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
 
 Mode of examination: The grade will be based on a written exam.
 
 Literature:
-- Nilesen and Chuang: Quantum computation and quantum information 
+- Nielsen and Chuang: Quantum computation and quantum information 
 - Watrous: The Theory of Quantum Information
 - Wilde: From Classical to Quantum Shannon Theory
 - Bengtsson and Życzkowski: Geometry of Quantum States
