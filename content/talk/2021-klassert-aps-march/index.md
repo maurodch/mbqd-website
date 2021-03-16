@@ -7,7 +7,7 @@ event_url: https://march.aps.org/
 # subtitle: 
 summary: In this talk Robert presents results on variational ground state search with the BrainScaleS-2 neuromorphic hardware.
 authors:
-- braemer
+- klassert
 - gaerttner
 tags: ['Talk', 'neuromorphic hardware', 'machine learning']
 categories: ['Talk', 'neuromorphic hardware', 'machine learning']
