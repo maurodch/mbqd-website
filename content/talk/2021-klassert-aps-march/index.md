@@ -11,7 +11,7 @@ authors:
 - gaerttner
 tags: ['Talk', 'neuromorphic hardware', 'machine learning']
 categories: ['Talk', 'neuromorphic hardware', 'machine learning']
-date: '2021-03-17'
+date: '2021-03-15'
 featured: false
 draft: false
 
