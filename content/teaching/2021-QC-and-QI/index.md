@@ -34,6 +34,10 @@ links:
     icon: arrow-circle-right
     name: LSF
     url: 'https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=339052&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung'
+    - icon_pack: fas
+    icon: arrow-circle-right
+    name: Tutorials
+    url: 'https://uebungen.physik.uni-heidelberg.de/v/1328'
 
 
 # Projects (optional).
@@ -56,6 +60,8 @@ Topics include:
 - Quantum information theory: basic concepts
 
 Dates and time: Mondays 14:16-16:00h, online on zoom (link will be provided in the exercise group system), first session on 12.04.2021, Tutorials: Wednesday and Thursday 16:15-18:00h
+
+If you want to participate in this lecture, please sign up for the <a href="https://uebungen.physik.uni-heidelberg.de/v/1328">tutorials</a>.
 
 Course requirements: Basics knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
 
