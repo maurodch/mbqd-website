@@ -63,7 +63,7 @@ Dates and time: Mondays 14:15-16:00h, online on zoom (link will be provided in t
 
 If you want to participate in this lecture, please sign up for the <a href="https://uebungen.physik.uni-heidelberg.de/v/1328">tutorials</a>.
 
-Course requirements: Basics knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
+Course requirements: Basic knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
 
 Mode of examination: The grade will be based on a written exam.
 
