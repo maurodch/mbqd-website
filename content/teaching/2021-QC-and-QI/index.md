@@ -59,7 +59,7 @@ Topics include:
 - Quantum computing hardware overview
 - Quantum information theory: basic concepts
 
-Dates and time: Mondays 14:15-16:00h, online on zoom (link will be provided in the exercise group system), first session on 12.04.2021, Tutorials: Wednesday 16:15-18:00h and Thursday 14:15-16:00h (Note that the time of the Thursday tutorial was changed compare to the time announced in the LSF.)
+Dates and time: Mondays 14:15-16:00h, online on zoom (link will be provided in the exercise group system), first session on 12.04.2021, Tutorials: Wednesday 16:15-18:00h and Thursday 14:15-16:00h (Note that the time of the Thursday tutorial was changed compared to the time announced in the LSF.)
 
 If you want to participate in this lecture, please sign up for the <a href="https://uebungen.physik.uni-heidelberg.de/v/1328">tutorials</a>.
 
