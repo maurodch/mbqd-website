@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- entanglement
+- quantum-ann
 publishDate: 2021-01-21T20:50:11.942193Z
 publication_types:
 - '2'
