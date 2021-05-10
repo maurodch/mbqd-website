@@ -1,7 +1,7 @@
 ---
 title: 'Networks in Quantum Science'
 subtitle: 'Summer semester 2018'
-summary: ""
+summary: "The seminar will focus on recent developments in network theory in the context of quantum physics, including artificial neural networks, machine learning, and new numerical approaches to quantum many-body theory."
 authors:
 - gaerttner
 
@@ -42,3 +42,5 @@ links:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Quantum many-body theory has traditionally been based on techniques ranging from many-particle quantum mechanics via quantum field theory to quantum-information related mathematics. It encompasses a wealth of applications for solids, in ultralow-temperature systems, in high-energy physics and cosmology, to name only a few. Recently, a new wave of ideas has come to life which adds to the already rich methodology and which is rooted in growing capabilities and interest in simulating network dynamics. These methods promise to allow for new and possibly more efficient ways to tackle old problems and may give a fresh glimpse on relations between the physical sciences and biology.
