@@ -1,7 +1,7 @@
 ---
 title: 'Quantum Simulation'
 subtitle: 'Winter semester 2017/2018'
-summary: ""
+summary: "Master seminar about quantum simulation."
 authors:
 - gaerttner
 
@@ -42,3 +42,5 @@ links:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Quantum simulators, special purpose quantum computers, are the first kind of quantum computers that will surpass the capabilities of classical computers in simulating the dynamics of quantum many-body systems. Outstanding problems in condensed matter, quantum chemistry, and high energy physics, such as high temperature superconductivity or quantum magnetism can supposedly described by simple quantum mechanical models like the Hubbard model. However, these models turn out to be exceedingly hard to solve on classical computers because the memory needed to store the quantum state of a system grows exponentially with the number of particles. A solution to this problem would be to use a quantum computer to simulate quantum dynamics, i.e. to have a perfectly controlled quantum systems that we can prepare, time evolve, and measure and thus understand the effects leading to the phenomena mention above. Thanks to rapid technological advances for example in cooling and trapping atoms, ions, and molecules, such devices are now becoming available in the lab. In this seminar we will take a tour from the original problem of quantum complexity formulated by Feynman to the most recent experimental progress that is made in quantum simulation labs around the world, including here in Heidelberg.
