@@ -46,20 +46,23 @@ projects: []
 Lecture contents
 
 Lecture 1: Prospects of quantum computing
-Brief history
-Quantum circuit model
-Quantum algorithms: Deutsch-Jozsa
+
+Brief history<br>
+Quantum circuit model<br>
+Quantum algorithms: Deutsch-Jozsa<br>
 Quantum complexity
 
 Lecture 2: Challenges for quantum computing
-Decoherence
-Quantum error correction
-Stabilizer codes and the Gottesman-Knill theorem
+
+Decoherence<br>
+Quantum error correction<br>
+Stabilizer codes and the Gottesman-Knill theorem<br>
 Fault-tolerant quantum computing and the threshold theorem
 
-References
-Nielsen and Chuang book http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf
-Report of the national academy of sciences on the prospects and challenges of quantum computing: https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects
-Scott Aaronson’s blog: https://www.scottaaronson.com/blog/
-Article about progress of quantum technologies: https://physicsworld.com/a/mapping-the-commercial-landscape-for-quantum-technologies/
+References:
+
+Nielsen and Chuang book http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf <br>
+Report of the national academy of sciences on the prospects and challenges of quantum computing: https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects <br>
+Scott Aaronson’s blog: https://www.scottaaronson.com/blog/ <br>
+Article about progress of quantum technologies: https://physicsworld.com/a/mapping-the-commercial-landscape-for-quantum-technologies/ <br>
 Comic about quantum computing: https://www.smbc-comics.com/comic/the-talk-3
