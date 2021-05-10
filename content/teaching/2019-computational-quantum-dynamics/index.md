@@ -1,7 +1,7 @@
 ---
 title: 'Computational Quantum Dynamics'
 subtitle: 'Winter semester 2019/2020'
-summary: ""
+summary: "The aim of this lecture is to provide an introduction to computational methods used to model quantum mechanics problems."
 authors:
 - gaerttner
 
@@ -42,3 +42,5 @@ links:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+The aim of this lecture is to provide an introduction to computational methods used to model quantum mechanics problems. We will cover all aspects of the modeling process, from abstraction and representation of the wave function and exact and approximate numerical methods for solving the stationary and time-dependent Schrödinger equation to data handling and visualization of the simulation results. We will not go too deep into the subtleties of numerical methods but rather pursue a pragmatic hands-on approach guided by physical problems and learn to use a high-level programming language to model them.
