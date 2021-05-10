@@ -1,7 +1,7 @@
 ---
 title: 'Prospects and challenges for quantum computing'
 subtitle: 'Winter 2018/2019'
-summary: ""
+summary: "Lecture given at the HGSFP winterschool in Obergurgl in January 2019."
 authors:
 - gaerttner
 
@@ -42,3 +42,24 @@ links:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Lecture contents
+
+Lecture 1: Prospects of quantum computing
+Brief history
+Quantum circuit model
+Quantum algorithms: Deutsch-Jozsa
+Quantum complexity
+
+Lecture 2: Challenges for quantum computing
+Decoherence
+Quantum error correction
+Stabilizer codes and the Gottesman-Knill theorem
+Fault-tolerant quantum computing and the threshold theorem
+
+References
+Nielsen and Chuang book http://csis.pace.edu/ctappert/cs837-18spring/QC-textbook.pdf
+Report of the national academy of sciences on the prospects and challenges of quantum computing: https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects
+Scott Aaronson’s blog: https://www.scottaaronson.com/blog/
+Article about progress of quantum technologies: https://physicsworld.com/a/mapping-the-commercial-landscape-for-quantum-technologies/
+Comic about quantum computing: https://www.smbc-comics.com/comic/the-talk-3
