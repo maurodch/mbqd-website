@@ -1,7 +1,7 @@
 ---
 title: 'Quantum technologies'
 subtitle: 'Summer semester 2020'
-summary: ""
+summary: "In this seminar we want to get an overview over emerging quantum technologies and the physical principles that underlie what is sometimes called quantum supremacy."
 authors:
 - gaerttner
 
@@ -42,3 +42,8 @@ links:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+The first quantum revolution – understanding and applying physical laws in the microscopic realm –resulted in groundbreaking technologies such as the transistor, solid-state lighting and lasers, and GPS. Today, our ability to use previously untapped quantum effects such as superposition and entanglement is paving the way for a second revolution. This enables a range of applications which can potentially revolutionize the fields of computing, sensing, and communication.
+Quantum computers are expected to be able to solve, in a few minutes, problems that are unsolvable by the supercomputers of today and tomorrow. Quantum simulators, which are special purpose quantum computers, may enable the design of chemical processes, new materials, such as higher temperature superconductors, and new paradigms in machine learning and artificial intelligence. Through quantum cryptography, data can be protected in a completely secure way that makes eavesdropping impossible. Exploiting quantum entanglement allows the design of clocks and sensors with unprecedented sensitivity and accuracy.
+In this seminar we want to get an overview over these topics and the physical principles that underlie what is sometimes called quantum supremacy.
+
