@@ -1,7 +1,7 @@
 ---
 title: 'Computational approaches to quantum many-body systems'
 subtitle: 'Summer 2019'
-summary: ""
+summary: "Lecture series given at the Graduate Days of the HGSFP in the summer term 2019"
 authors:
 - gaerttner
 
@@ -42,3 +42,7 @@ links:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Quantum spin models are the simplest quantum many-body problems, in some cases even allowing for analytical solutions. For this reason their study has led to many fundamental insights about emergent phenomena in quantum many-body physics. Still, in general non-integrable cases, the complexity of spin models, as measured by the Hilbert space dimension, increases exponentially with system size, rendering large spin systems intractable for numerical simulation. Therefore, in order to efficiently treat these problems numerically, and exploring large numbers of spins, methods for reducing this complexity are needed. 
+
+In this lecture series, I will give an introduction to some of these methods. This covers exploiting symmetries for restricting the relevant Hilbert space (LMG models), over semiclassical methods (truncated Wigner approximation), to tensor network states, which restrict the amount of entanglement in the system. Each session will consist of a presentation followed be a programming exercise in which the learned methods are applied and explored further.
