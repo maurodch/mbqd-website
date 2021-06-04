@@ -5,8 +5,20 @@ authors:
 - reh
 - M. Schmitt
 - gaerttner
+
 projects:
 - quantum-ann
+
+links:
+# link to different home page?
+#  - icon_pack: fas
+#    icon: arrow-circle-right
+#    name: Homepage
+#    url: 'https://uebungen.physik.uni-heidelberg.de/v/1123'
+  - icon_pack: fas
+    icon: arrow-circle-right
+    name: Publication
+    url: /publication/reh-2021/
 ---
 
 ## Time-dependent variational principle for open quantum systems with artificial neural networks
