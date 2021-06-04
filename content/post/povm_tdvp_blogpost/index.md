@@ -9,6 +9,8 @@ authors:
 projects:
 - quantum-ann
 
+tags: ['ANN', 'open quantum systems', 'POVM', 'machine learning', 'TDVP']
+
 links:
 # link to different home page?
 #  - icon_pack: fas
