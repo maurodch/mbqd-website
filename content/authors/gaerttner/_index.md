@@ -23,10 +23,11 @@ bio:
 
 # List each interest with a dash
 interests:
-- Many-body Quantum Dynamics
+- Many-body quantum dynamics
 - Quantum thermalization
 - Entanglement detection
-- Quantum Simulation
+- Quantum simulation
+- Machine learning methods in quantum physics
 
 
 # Social/Academic Networking
