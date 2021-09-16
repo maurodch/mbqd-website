@@ -16,5 +16,5 @@ weight = 20  # Order that this section will appear.
   columns = "1" # Choose how many columns the section has. Valid values: 1 or 2.
 
 +++
-This group, led by <a href="/author/martin-garttner">Martin Gärttner</a> is located at Heidelberg University in a superposition state between Physikalisches Institut, Kirchhoff-Institute for Physics, and the Institute for Theoretical Physics.
+This group, led by <a href="/author/martin-garttner">Martin Gärttner</a>, is located at Heidelberg University in a superposition state between Physikalisches Institut, Kirchhoff-Institute for Physics, and the Institute for Theoretical Physics.
 
