@@ -74,7 +74,7 @@ diagram = false
 privacy_pack = true
 
 # Show related content at the bottom of pages?
-show_related = {post = true, project = false, publication = true, talk = false}
+show_related = {post = true, project = false, publication = true, talk = false, author = true}
 
 ############################
 ## Contact details
@@ -85,7 +85,7 @@ show_related = {post = true, project = false, publication = true, talk = false}
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "marting@kip.uni-heidelberg.de"
-phone = "+49 6221 54 5185"
+phone = "+49 6221 54 9852"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -96,7 +96,7 @@ address = {street = "Im Neuenheimer Feld 227", city = "Heidelberg", region = "Ba
 coordinates = {latitude = "49.41627686041282", longitude = "8.671862598306253"}
 
 # Directions for visitors to locate you.
-directions = "Enter the building and get to the second floor"
+directions = "Office: 02.108"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

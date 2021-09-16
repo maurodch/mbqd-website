@@ -175,6 +175,18 @@
 }
 
 
+.onesentence-section {
+  padding: 20px 0px
+}
+.onesentence-section p {
+  margin: 0px
+}
+
+/* Fix large distance between Research headline and first box */
+.project-showcase {
+  margin-top: 0 !important;
+}
+
 /* Make the project boxes all the same height, independent of actual content to look nicer */
 /*@media screen and (min-width: 768px) {
   div.project-card{

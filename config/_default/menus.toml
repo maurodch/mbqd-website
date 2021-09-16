@@ -34,8 +34,33 @@
 
 [[main]]
   name = "People"
-  url = "people"
+  identifier = "people"
   weight = 30
+
+[[main]]
+  name = "Martin Gärttner"
+  url = "author/martin-garttner"
+  parent = "people"
+  weight = 10
+  
+[[main]]
+  name = "Group members"
+  url = "people"
+  parent = "people"
+  weight = 20
+ 
+[[main]]
+  name = "Collaborators"
+  url = "people#collaboration"
+  parent = "people"
+  weight = 30
+
+[[main]]
+  name = "Alumni"
+  url = "people#alumni"
+  parent = "people"
+  weight = 40
+
 
 [[main]]
   name = "Teaching"
@@ -48,6 +73,6 @@
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "contact"
+  name = "Funding"
+  url = "funding"
   weight = 60
