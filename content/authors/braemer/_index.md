@@ -22,9 +22,11 @@ organizations:
 
 # List each interest with a dash
 interests:
-- Thermalization in closed Quantum Systems
-- Cold Atoms
-- Quantum Simulation
+- Thermalization in closed quantum systems
+- Disordered spin systems
+- Quantum simulation
+- Cold atoms
+- Rydberg atoms
 - Numerical method development
 
 social:
