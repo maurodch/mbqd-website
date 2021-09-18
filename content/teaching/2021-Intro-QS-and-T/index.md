@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to quantum science and technology'
 subtitle: 'Winter semester 2021/2022'
-summary: "TODO"
+summary: "This lecture gives an introduction to quantum computing, sensing, and communication, with a focus on basic mathematical and physical concepts unerpinning these emerging quantum technologies."
 authors:
 - gaerttner
 
@@ -48,28 +48,27 @@ links:
 projects: []
 ---
 
-This lecture gives an introduction to topics related to quantum computing and quantum information theory. Video material will be complemented by homework exercises, including programming exercises, and tutorial sessions.
+This lecture introduces basic physical and mathematical concepts which quantum technologies are based on. Video material will be complemented by homework exercises, including programming exercises, Q&A sessions and tutorials. This lecture is open to external partcipants within the EFEQT master program. It will be given in collaboration with Shannon Whitloch from the University of Strasbourg. It consists of 8 topical blocks.
 
 Topics include:
-- Quantum circuit model: states, operations and measurements
-- Quantum algorithms
-- Quantum computational complexity classes
-- Quantum channels, noise and decoherence
-- Quantum error correction and fault tolerant quantum computing
-- Quantum computing hardware overview
-- Quantum information theory: basic concepts
+- Linear algebra basics: Vector spaces, operators, spectral decomposition
+- Phython programming basics
+- Quantum mechanics of discrete systems
+- Quantum computing: The circuit model and basic quantum algorithms
+- Physical systems for quantum technologies
+- Quantum errors: Noise and decoherence
+- Density matrix formalism
+- Quantum simulation
+- Quantum sensing
+- Entanglement
+- Quantum communication
 
-Dates and time: Mondays 14:15-16:00h, online on zoom (link will be provided in the exercise group system), first session on 12.04.2021, Tutorials: Wednesday 16:15-18:00h and Thursday 14:15-16:00h (Note that the time of the Thursday tutorial was changed compared to the time announced in the LSF.)
+Dates and time: Mondays 14:15-16:00h, INF 227 / SR 1.403, first session on 12.04.2021, Tutorials: Wednesday 16:15-18:, INF 227 / SR 3.402
 
-If you want to participate in this lecture, please sign up for the <a href="https://uebungen.physik.uni-heidelberg.de/v/1328">tutorials</a>.
+Heidelberg students should sign up for the lecture in the exercise group system (link will be provided)
 
-Course requirements: Basic knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
+Course materials will be provided on a separate platform.
+
+Course requirements: Basic knowledge of quantum mechanics (Theoretical Physics IV).
 
 Mode of examination: The grade will be based on a written exam.
-
-Literature:
-- Nielsen and Chuang: Quantum computation and quantum information 
-- Watrous: The Theory of Quantum Information
-- Wilde: From Classical to Quantum Shannon Theory
-- Bengtsson and Życzkowski: Geometry of Quantum States
-- Lecture notes of <a href="http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html">John Preskill</a>
