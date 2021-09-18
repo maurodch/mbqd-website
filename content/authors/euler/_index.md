@@ -22,9 +22,14 @@ organizations:
 
 # List each interest with a dash
 interests:
-- Many-body Quantum Dynamics
-- Entanglement
 - Quantum Simulation
+- Cold atoms on optical lattices
+- (High dimensional) Entanglement
+- Rydberg atoms
+- Disordered spin systems
+- Floquet dynamics (periodically driven quantum systems)
+
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
