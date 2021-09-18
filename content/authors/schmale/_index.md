@@ -22,9 +22,11 @@ organizations:
 
 # List each interest with a dash
 interests:
-- Many-body Quantum Dynamics
-- Entanglement
-- Quantum Simulation
+- Many-body quantum systems
+- Quantum state tomography
+- Machine learning
+- Neural networks
+- Compressed representations of quantum states
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
