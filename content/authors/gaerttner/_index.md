@@ -63,10 +63,10 @@ weight: 2
 ---
 
 ## Short CV:
-- 2004-2009 Physics Studies in Heidelberg and Melbourne
-- 2009-2010 Research stay at University of Granada
-- 2010-2013 Doctoral studies at Max-Planck-Institute for Nuclear Physics (MPIK), Heidelberg
-- 2013-2014 Postdoc at MPIK
-- 2014-2016 Postdoc at JILA, Boulder
-- 2017-2020 Postdoc/Junior group leader at Kirchhoff-Institute for Physics, Heidelberg
 - 2020-     Group leader at Physics Institute and Kirchhoff-Institute for Physics, Heidelberg
+- 2017-2020 Postdoc/Junior group leader at Kirchhoff-Institute for Physics, Heidelberg
+- 2014-2016 Postdoc at JILA, Boulder
+- 2013-2014 Postdoc at MPIK
+- 2010-2013 Doctoral studies at Max-Planck-Institute for Nuclear Physics (MPIK), Heidelberg
+- 2009-2010 Research stay at University of Granada
+- 2004-2009 Physics Studies in Heidelberg and Melbourne
