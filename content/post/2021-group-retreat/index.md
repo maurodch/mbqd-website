@@ -18,7 +18,7 @@ It was a great chance for the group to take some time away from our daily resear
 <img src="Fig1.JPG">
 </p>
 
-After that, we each brought everyone up to speed on the state of our individual projects, giving particular focus on the outstanding challenges we all face. It was a great chance to take some extra time to discuss the overlaps between our projects and to realise how other members in the group have skills that could potentially solver other member's problems.
+After that, we each brought everyone up to speed on the state of our individual projects, giving particular focus on the outstanding challenges we all face. It was a great chance to take some extra time to discuss the overlaps between our projects and to realise how other members in the group have skills that could potentially solve other member's problems.
 
 Of course, we did plenty of hiking too! On the first day, we hiked to Rußkopf. We enjoyed lunch on the peak overlooking the valley and then went down into the valley and back up towards the glacier. 
 
