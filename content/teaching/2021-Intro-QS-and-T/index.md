@@ -63,7 +63,7 @@ Topics include:
 - Entanglement
 - Quantum communication
 
-Dates and time: Mondays 14:15-16:00h, INF 227 / SR 1.403, first session on 12.04.2021, Tutorials: Wednesday 16:15-18:, INF 227 / SR 3.402
+Dates and time: Mondays 14:15-16:00h, INF 227 / SR 1.403, first session on 18.10.2021, Tutorials: Wednesday 16:15-18:, INF 227 / SR 3.402
 
 Heidelberg students should sign up for the lecture in the exercise group system (link will be provided)
 
