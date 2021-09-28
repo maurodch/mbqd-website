@@ -48,7 +48,7 @@ links:
 projects: []
 ---
 
-This lecture introduces basic physical and mathematical concepts which quantum technologies are based on. Video material will be complemented by homework exercises, including programming exercises, Q&A sessions and tutorials. This lecture is open to external partcipants within the EFEQT master program. It will be given in collaboration with Shannon Whitloch from the University of Strasbourg. It consists of 8 topical blocks.
+This lecture introduces basic physical and mathematical concepts which quantum technologies are based on. Video material will be complemented by homework exercises, including programming exercises, Q&A sessions and tutorials. This lecture is open to external partcipants within the EFEQT master program. It will be given in collaboration with Shannon Whitlock from the University of Strasbourg. It consists of 8 topical blocks.
 
 Topics include:
 - Linear algebra basics: Vector spaces, operators, spectral decomposition
@@ -65,7 +65,7 @@ Topics include:
 
 Dates and time: Mondays 14:15-16:00h, INF 227 / SR 1.403, first session on 18.10.2021, Tutorials: Wednesday 16:15-18:, INF 227 / SR 3.402
 
-Heidelberg students should sign up for the lecture in the exercise group system (link will be provided)
+Heidelberg students should sign up for the lecture in the exercise group system at: https://uebungen.physik.uni-heidelberg.de/v/1433
 
 Course materials will be provided on a separate platform.
 
