@@ -33,11 +33,11 @@ links:
   - icon_pack: fas
     icon: arrow-circle-right
     name: LSF
-    url: 'TODO'
+    url: 'https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=349947&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung'
   - icon_pack: fas
     icon: arrow-circle-right
     name: Tutorials
-    url: 'TODO'
+    url: 'https://uebungen.physik.uni-heidelberg.de/v/1433'
 
 
 # Projects (optional).
