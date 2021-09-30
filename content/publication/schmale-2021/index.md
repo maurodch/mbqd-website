@@ -11,8 +11,8 @@ authors:
 
 tags: ['ANN', 'quantum state tomography', 'POVM']
 categories: []
-date: 2021-04-01
-lastmod: 2021-02-23T20:50:11.942193Z
+date: 2021-09-28
+lastmod: 2021-09-30T20:50:11.942193Z
 featured: false
 draft: false
 
