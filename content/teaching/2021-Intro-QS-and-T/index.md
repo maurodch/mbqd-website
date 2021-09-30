@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to quantum science and technology'
 subtitle: 'Winter semester 2021/2022'
-summary: "This lecture gives an introduction to quantum computing, sensing, and communication, with a focus on basic mathematical and physical concepts unerpinning these emerging quantum technologies."
+summary: "This lecture gives an introduction to quantum computing, sensing, and communication, with a focus on basic mathematical and physical concepts underpinning these emerging quantum technologies."
 authors:
 - gaerttner
 
@@ -52,7 +52,7 @@ This lecture introduces basic physical and mathematical concepts which quantum t
 
 Topics include:
 - Linear algebra basics: Vector spaces, operators, spectral decomposition
-- Phython programming basics
+- Python programming basics
 - Quantum mechanics of discrete systems
 - Quantum computing: The circuit model and basic quantum algorithms
 - Physical systems for quantum technologies
