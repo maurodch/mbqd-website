@@ -8,7 +8,9 @@ title_short: Disordered Systems
 authors:
 - gaerttner
 - braemer
-- kaposvari
+#- kaposvari
+- euler
+- muellenbach
 
 # Determines ordering of projects
 weight: 3

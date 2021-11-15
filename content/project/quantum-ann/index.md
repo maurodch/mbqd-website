@@ -7,11 +7,12 @@ title_short: ANN
 
 authors:
 - gaerttner
-- syrkowski
+#- syrkowski
 - reh
-- klassert
-- epping
-- schmale
+#- klassert
+#- epping
+#- schmale
+- aasen
 
 # Determines ordering of projects
 weight: 4
