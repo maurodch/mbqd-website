@@ -15,6 +15,7 @@ design:
 title: Former members
 subtitle:
 ---
+ - Tobias Schmale (Master Oktober 2021) - now does his Ph.D. in Hannover
  - Robert Klassert (Master September 2021)
  - Sebastian Syrkowski (Master Juni 2021)
  - Moritz Epping (Bachelor March 2021), now master student in Heidelberg
