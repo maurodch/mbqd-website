@@ -11,8 +11,8 @@ authors:
 - stockdale
 tags: ['Entropy', 'quantum information', 'Entanglement']
 categories: []
-date: '2021-06-16'
-lastmod: 2021-06-16T08:35:16+01:00
+date: '2022-01-05'
+lastmod: 2022-01-06T01:35:16+01:00
 featured: false
 draft: false
 
@@ -31,11 +31,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects:
  - entanglement
-publishDate: '2021-06-15T09:35:16.419065Z'
+publishDate: '2022-01-05T09:35:16.419065Z'
 publication_types:
 - '2'
-abstract: "We derive inseparability criteria for the phase space representation of quantum states in terms of variants of Wehrl's entropy. In contrast to entropic criteria involving differential entropies of marginal phase space distributions, our criteria are based on the Husimi Q-distribution. This is experimentally accessible through the heterodyne detection scheme, avoiding costly tomographic measurements. We apply our entropic criteria to Gaussian states and show that they imply a pair of second-order criteria for moments. We exemplify the strengths of our entropic approach by considering several classes of non-Gaussian states where second-order criteria fail. We show that our criteria certify entanglement in previously undetectable regions highlighting the strength of using the Husimi Q-distribution for entanglement detection."
-publication: ArXiv Preprint
-url_pdf: https://arxiv.org/abs/2106.08788
-doi: 
+abstract: 'We derive entropic inseparability criteria for the phase-space representation of quantum states. In contrast to criteria involving differential entropies of marginal phase-space distributions, our criteria are based on a joint distribution known as the Husimi Q distribution. This distribution is experimentally accessible in cold atoms, circuit QED architectures, and photonic systems, and bears practical advantages compared to the detection of marginals. We exemplify the strengths of our entropic approach by considering several classes of non-Gaussian states where second-order criteria fail. We show that our criteria certify entanglement in previously undetectable regions, highlighting the strength of using the Husimi Q distribution for entanglement detection.'
+publication: 'Phys. Rev. A **105**, 012409 (2022)'
+url_pdf: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.012409
+doi: https://doi.org/10.1103/PhysRevA.105.012409
 ---

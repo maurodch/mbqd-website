@@ -1,8 +1,8 @@
 ---
-title: Entropic entanglement now on the arXiv!
-subtitle: Our latest work has appeared on the arXiv. We derive a new set of
+title: Entropic entanglement now published in PRA
+subtitle: Our latest work has appeared in Physical Review A. We derive a new set of
   entanglement criteria in phase space that uses the Husimi distribution.
-date: 2021-06-24
+date: 2022-01-05
 authors:
 - stockdale
 image:
@@ -21,9 +21,7 @@ links:
     url: /publication/floerchinger-2021/
 ---
 
-
-Our new paper, *[Entropic entanglement criteria in phase space](https://arxiv.org/abs/2106.08788)*, has recently appeared on the 
-arXiv!
+Our new paper, *[Entropic entanglement criteria in phase space](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.012409)*, has recently been published in Physical Review A!
 
 It is well known that entanglement is incredibly hard not just to measure, but also to witness. In our new paper, we develop a new method to witness entanglement that relies on measuring the entropy.
 
@@ -33,7 +31,7 @@ be before even flipping the coin, and hence there is no uncertainty in the measu
 
 Entropy is a promising resource for measuring entanglement as it captures the *entire* probability distribution of a particular measurement. Many entanglement measures rely on second-order moments of a distribution, but
 entropies can capture *all* the moments. Entropic entanglement measures already exist, however our method exploits a different type of measurement that measures a particular distribution known as the [Husimi
-distribution](https://en.wikipedia.org/wiki/Husimi_Q_representation), $Q(x,p)$. The Husimi distribution has an entropy associated to it called the [Wehrl 
+distribution](https://en.wikipedia.org/wiki/Husimi_Q_representation), $Q(x,p)$. The Husimi distribution has an entropy associated to it called the [Wehrl
 entropy](https://en.wikipedia.org/wiki/Wehrl_entropy), $S_W(Q)$.
 
 The Husimi distribution contains all the information of the quantum state, and the great thing about it is that it can be measured! In quantum optics systems, it is well-established that the Husimi distribution is accessed via
@@ -48,12 +46,12 @@ Our entanglement witness is then defined as
 
 $$ S_M(Q_\pm) \geq \ln\left(e^{S_W(Q_1)} + e^{S_W(Q_2)}\right).$$
 
-These are known as the strong criteria. We can similarly define a weak criteria by invoking some properties of the Wehrl entropy. The weak criteria is thus
+These are known as the strong criteria and apply to pure states. We can similarly define a weak criteria by invoking some properties of the Wehrl entropy. The weak criteria is thus
 
-$$S_M(Q_\pm) \geq 1 + \ln2.$$
+$$S_M(Q_\pm) \geq 1 + \ln2,$$
 
-A violation of these bounds flag entanglement. In our paper, we consider some examples of different quantum states to show our new entanglement 
-witness works. We consider both Gaussian and non-Gaussian states and show that our witness is stronger than
+describing both pure *and* mixed states. A violation of these bounds flag entanglement. In our paper, we consider some examples of different quantum states to show our new entanglement
+witness works well. We consider both Gaussian and non-Gaussian states and show that our witness is stronger than
 previous witnesses for certain non-Gaussian states, such as the Schrödinger cat state.
 
 An infographic that describes the main points of our preprint can be found [here](phaseSpace.pdf).
