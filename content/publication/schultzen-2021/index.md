@@ -41,7 +41,7 @@ publishDate: 2021-01-21T20:50:11.942193Z
 publication_types:
 - '2'
 abstract: 'We study out-of-equilibrium dynamics in the quantum Ising model with power-law interactions and positional disorder. For arbitrary dimension d and interaction range α≥d we analytically find a stretched exponential decay with stretch power β=d/α for the global magnetization and ensemble-averaged single-spin purity in the thermodynamic limit. We reveal numerically that glassy behavior persists for finite system sizes and sufficiently strong disorder. We conclude that the magnetization decay is due to interaction induced dephasing while entanglement builds up at a smaller rate evident from the decay of single-spin purity, thus providing a microscopic understanding of glassy dynamics in disordered closed quantum systems.'
-publication: 'ArXiv Preprint'
-url_pdf: https://arxiv.org/pdf/2104.00349
+publication: 'Phys. Rev. **B** 105, L020201'
+url_pdf: https://link.aps.org/doi/10.1103/PhysRevB.105.L020201
 doi: 
 ---
