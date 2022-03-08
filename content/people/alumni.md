@@ -15,11 +15,11 @@ design:
 title: Former members
 subtitle:
 ---
- - Tobias Schmale (Master Oktober 2021) - now does his Ph.D. in Hannover
+ - Tobias Schmale (Master October 2021), now at Hannover University
  - Robert Klassert (Master September 2021)
- - Sebastian Syrkowski (Master Juni 2021)
+ - Sebastian Syrkowski (Master June 2021)
  - Moritz Epping (Bachelor March 2021), now master student in Heidelberg
- - Peter Kaposvari (Master Januar 2021)
+ - Peter Kaposvari (Master January 2021)
  - Bjarne Bergh (Master October 2020), now at Cambridge University
  - Leander Haase (Bachelor September 2020), now master student in Heidelberg
  - Linda Shen (PhD 2020, co-supervision with J. Berges), now at RWE
