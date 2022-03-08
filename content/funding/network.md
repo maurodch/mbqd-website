@@ -43,12 +43,4 @@ subtitle:
   <span style="float: right; width: 70%; padding-top: 40px">We are funded by the Cluster of Excellence STRUCTURES within which we collaborate with Razvan Gurau in an <a href="https://structures.uni-heidelberg.de/eps.html">exploratory project</a> on "Emergent phases of matter in driven disordered spin systems".</span>
 </div>
 
-<div class="img-row">
-  <div class="img-column3">
-    <a href="https://synqs.org">
-      <img src="/logos/synqs.png" alt="SynQS group">
-    </a>
-  </div>
-  <span style="float: right; width: 70%; padding-top: 40px">We collaborate closely with other experimental and theoretical groups within the Synthetic Quantum Systems (SynQS) collaboration.</span>
-</div>
 
