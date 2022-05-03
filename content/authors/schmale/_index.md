@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master Student
+role: Alumni (Master)
 
 # Organizations/Affiliations
 organizations:

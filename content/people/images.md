@@ -14,7 +14,18 @@ headless: true
 weight: 40
 
 gallery_item:
-
+ - album: grouppics
+   image: grouppics/2021_group_retreat_hut.jpg
+   caption: Group retreat to Jamtalhütte in summer 2021 
+ - album: grouppics
+   image: grouppics/2021_group_retreat_talks.jpg
+   caption: Discussing physics at Jamtalhütte 2021
+ - album: grouppics
+   image: grouppics/2021_group_retreat_way_up.jpg
+   caption: On they way up to Rußkopf (2693m) on the first day of the Group retreat 2021
+ - album: grouppics
+   image: grouppics/2021_group_retreat_cross.jpg
+   caption: At the very top of Grenzeckkopf (3048m) on the second day of the Group retreat 2021
  - album: grouppics
    image: grouppics/group_hike_20201010.jpeg
    caption: "Group hike to Heiligenberg and Weißenstein fall 2020"
@@ -27,6 +38,7 @@ gallery_item:
  - album: grouppics
    image: grouppics/group_20200504_masks.jpg
    caption: Staying extra safe during Corona in spring 2020
+   
 ---
 
 {{< gallery album="grouppics" >}}

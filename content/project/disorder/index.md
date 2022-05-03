@@ -11,6 +11,7 @@ authors:
 #- kaposvari
 - euler
 - muellenbach
+- sinan
 
 # Determines ordering of projects
 weight: 3
