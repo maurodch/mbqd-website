@@ -22,9 +22,9 @@ organizations:
 
 # List each interest with a dash
 interests:
-- Many-body quantum dynamics
-- Disordered systems
-- Effective description
+- Thermalization in closed quantum systems
+- Many-body localization
+- Effective description of disordered systems
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -36,7 +36,7 @@ user_groups:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:mohammed.sinan@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:mohammed.sinan@gmx.de"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/HANDLE
