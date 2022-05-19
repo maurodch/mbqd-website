@@ -15,6 +15,7 @@ design:
 title: Former members
 subtitle:
 ---
+ - Oliver Stockdale (PhD May 2022)
  - Tim Rein (Bachelor March 2022), now master student at Cambridge University
  - Tobias Schmale (Master October 2021), now at Hannover University
  - Robert Klassert (Master September 2021)
