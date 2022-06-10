@@ -1,0 +1,524 @@
+10.21468/SciPostPhys.12.1.039:
+  abstract: 'The approximation of quantum states with artificial neural networks has
+    gained a lot of attention during the last years. Meanwhile, analog neuromorphic
+    chips, inspired by structural and dynamical properties of the biological brain,
+    show a high energy efficiency in running artificial neural-network architectures
+    for the profit of generative applications. This encourages employing such hardware
+    systems as platforms for simulations of quantum systems. Here we report on the
+    realization of a prototype using the latest spike-based BrainScaleS hardware allowing
+    us to represent few-qubit maximally entangled quantum states with high fidelities.
+    Bell correlations of pure and mixed two-qubit states are well captured by the
+    analog hardware, demonstrating an important building block for simulating quantum
+    systems with spiking neuromorphic chips.'
+  day: 5
+  month: 1
+  projects:
+    - quantum-ann
+  year: 2022
+Cohn2018:
+  abstract: 'We introduce a bang-bang shortcut to adiabaticity for the Dicke model,
+    which we implement via a two-dimensional array of trapped ions in a Penning trap
+    with a spin-dependent force detuned close to the center-of-mass drumhead mode.
+    Our focus is on employing this shortcut to create highly entangled states that
+    can be used in high-precision metrology. We highlight that the performance of
+    the bang-bang approach is comparable to standard preparation methods, but can
+    be applied over a much shorter time frame. We compare these theoretical ideas
+    with experimental data which serve as a first step towards realizing this theoretical
+    procedure for generating multi-partite entanglement.'
+  day: 1
+  month: 5
+  projects: []
+  year: 2018
+Covey2016:
+  abstract: 'Polar molecules in an optical lattice provide a versatile platform to
+    study quantum many-body dynamics. Here we use such a system to prepare a density
+    distribution where lattice sites are either empty or occupied by a doublon composed
+    of an interacting Bose-Fermi pair. By letting this out-of-equilibrium system evolve
+    from a well-defined, but disordered, initial condition, we observe clear effects
+    on pairing that arise from inter-species interactions, a higher partial-wave Feshbach
+    resonance and excited Bloch-band population. These observations facilitate a detailed
+    understanding of molecule formation in the lattice. Moreover, the interplay of
+    tunnelling and interaction of fermions and bosons provides a controllable platform
+    to study Bose-Fermi Hubbard dynamics. Additionally, we can probe the distribution
+    of the atomic gases in the lattice by measuring the inelastic loss of doublons.
+    These techniques realize tools that are generically applicable to studying the
+    complex dynamics of atomic mixtures in optical lattices.'
+  day: 1
+  month: 1
+  projects: []
+  year: 2016
+Czischek2018:
+  abstract: ""
+  day: 1
+  month: 7
+  projects:
+    - quantum-ann
+  year: 2018
+Czischek2019:
+  abstract: ""
+  day: 1
+  month: 11
+  projects:
+    - quantum-ann
+  year: 2019
+Czischek_2018b:
+  abstract: 'The semi-classical discrete truncated Wigner approximation has recently
+    been proposed as a simulation method for spin-1/2 systems. While it appears to
+    provide a powerful approach which shows promising results in higher dimensions
+    and for systems with long-range interactions, its performance is still not well
+    understood in general. Here we perform a systematic benchmarking on the one-dimensional
+    transverse-field Ising model and point to limitations of the approximation arising
+    after sudden quenches into the quantum critical regime. Our procedure allows to
+    identify the limitations of the semi-classical simulations and with that to determine
+    the regimes and questions where quantum simulators can provide information which
+    is inaccessible to semi-classics.'
+  day: 1
+  month: 10
+  projects: []
+  year: 2018
+Fischer2016:
+  abstract: ""
+  day: 1
+  month: 1
+  projects: []
+  year: 2016
+Gaerttner2010:
+  abstract: ""
+  day: 1
+  month: 5
+  projects: []
+  year: 2010
+Gaerttner2012:
+  abstract: ""
+  day: 1
+  month: 9
+  projects: []
+  year: 2012
+Gaerttner2013:
+  abstract: ' We present a theoretical study of the impact of an electric field combined
+    with a magnetic field on the rotational dynamics of open-shell diatomic molecules.
+    Within the rigid rotor approximation, we solve the time-independent Schrödinger
+    equation including the fine-structure interactions and the Λ-doubling effects.
+    We consider three sets of molecule-specific parameters and several field regimes
+    and investigate the interplay between the different interactions identifying the
+    dominant one. The possibility of inducing couplings between the spin and rotational
+    degrees of freedom is demonstrated. '
+  day: 1
+  month: 1
+  projects: []
+  year: 2013
+Gaerttner2013b:
+  abstract: ""
+  day: 1
+  month: 9
+  projects: []
+  year: 2013
+Gaerttner2013c:
+  abstract: ""
+  day: 1
+  month: 10
+  projects: []
+  year: 2013
+Gaerttner2014:
+  abstract: ""
+  day: 1
+  month: 3
+  projects: []
+  year: 2014
+Gaerttner2014b:
+  abstract: ""
+  day: 1
+  month: 12
+  projects: []
+  year: 2014
+Gaerttner2015:
+  abstract: ""
+  day: 1
+  month: 7
+  projects: []
+  year: 2015
+Gaerttner2015b:
+  abstract: ""
+  day: 1
+  month: 7
+  projects: []
+  year: 2015
+Gaerttner2017:
+  abstract: 'Controllable arrays of ions and ultracold atoms can simulate complex
+    many-body phenomena and may provide insights into unsolved problems in modern
+    science. To this end, experimentally feasible protocols for quantifying the buildup
+    of quantum correlations and coherence are needed, as performing full state tomography
+    does not scale favourably with the number of particles. Here we develop and experimentally
+    demonstrate such a protocol, which uses time reversal of the many-body dynamics
+    to measure out-of-time-order correlation functions (OTOCs) in a long-range Ising
+    spin quantum simulator with more than 100 ions in a Penning trap. By measuring
+    a family of OTOCs as a function of a tunable parameter we obtain fine-grained
+    information about the state of the system encoded in the multiple quantum coherence
+    spectrum, extract the quantum state purity, and demonstrate the buildup of up
+    to 8-body correlations. Future applications of this protocol could enable studies
+    of many-body localization, quantum phase transitions, and tests of the holographic
+    duality between quantum and gravitational systems.'
+  day: 1
+  doi: 10.1038/nphys4119
+  month: 1
+  projects: []
+  year: 2017
+Gaerttner2018:
+  abstract: ""
+  day: 1
+  month: 1
+  projects: []
+  year: 2018
+Gaerttner2019:
+  abstract: ""
+  day: 1
+  month: 11
+  projects: []
+  year: 2019
+Gärttner2022:
+  abstract: 'Charge carriers in an engineered bilayer Mott insulator are predicted
+    to form tightly bound, mobile pairs, glued together by string excitations of the
+    antiferromagnetic order --- a scenario that can be tested with quantum gas microscopy
+    experiments.'
+  day: 1
+  month: 4
+  projects: []
+  year: 2022
+Heeg2012:
+  abstract: ""
+  day: 1
+  month: 9
+  projects: []
+  year: 2012
+Hofmann2013:
+  abstract: ""
+  day: 1
+  month: 5
+  projects: []
+  year: 2013
+Kunke2018:
+  abstract: 'When particles in a quantum mechanical system are entangled, a measurement
+    performed on one part of the system can affect the results of the same type of
+    measurement performed on another part—even if these subsystems are physically
+    separated. Kunkel et al., Fadel et al., and Lange et al. achieved this so-called
+    distributed entanglement in a particularly challenging setting: an ensemble of
+    many cold atoms (see the Perspective by Cavalcanti). In all three studies, the
+    entanglement was first created within an atomic cloud, which was then allowed
+    to expand. Local measurements on the different, spatially separated parts of the
+    cloud confirmed that the entanglement survived the expansion.Science, this issue
+    p. 413, p. 409, p. 416; see also p. 376A key resource for distributed quantum-enhanced
+    protocols is entanglement between spatially separated modes. However, the robust
+    generation and detection of entanglement between spatially separated regions of
+    an ultracold atomic system remain a challenge. We used spin mixing in a tightly
+    confined Bose-Einstein condensate to generate an entangled state of indistinguishable
+    particles in a single spatial mode. We show experimentally that this entanglement
+    can be spatially distributed by self-similar expansion of the atomic cloud. We
+    used spatially resolved spin read-out to reveal a particularly strong form of
+    quantum correlations known as Einstein-Podolsky-Rosen (EPR) steering between distinct
+    parts of the expanded cloud. Based on the strength of EPR steering, we constructed
+    a witness, which confirmed genuine 5-partite entanglement.'
+  day: 1
+  month: 1
+  projects:
+    - entanglement
+    - bec
+  year: 2018
+Kunkel2019:
+  abstract: ""
+  day: 1
+  month: 8
+  projects:
+    - entanglement
+    - bec
+  year: 2019
+Neugebauer2020:
+  abstract: ""
+  day: 1
+  month: 10
+  projects:
+    - quantum-ann
+  year: 2020
+Omiste2011:
+  abstract: 'We present a theoretical study of recent laser-alignment and mixed-field-orientation
+    experiments of asymmetric top molecules. In these experiments{,} pendular states
+    were created using linearly polarized strong ac electric fields from pulsed lasers
+    in combination with weak electrostatic fields. We compare the outcome of our calculations
+    with experimental results obtained for the prototypical large molecule benzonitrile
+    (C7H5N) [J. L. Hansen et al.{,} Phys. Rev. A{,} 2011{,} 83{,} 023406.] and explore
+    the directional properties of the molecular ensemble for several field configurations{,}
+    i.e.{,} for various field strengths and angles between ac and dc fields. For perpendicular
+    fields one obtains pure alignment{,} which is well reproduced by the simulations.
+    For tilted fields{,} we show that a fully adiabatic description of the process
+    does not reproduce the experimentally observed orientation{,} and it is mandatory
+    to use a diabatic model for population transfer between rotational states. We
+    develop such a model and compare its outcome to the experimental data confirming
+    the importance of non-adiabatic processes in the field-dressed molecular dynamics.'
+  day: 1
+  month: 1
+  projects: []
+  year: 2011
+PhysRevA.103.063710:
+  abstract: 'We experimentally investigate the nonlinear transmission spectrum of
+    coherent light fields propagating through a Rydberg-EIT medium with strong atomic
+    interactions. In contrast to previous investigations, which have largely focused
+    on resonant control fields, we explore here the full two-dimensional spectral
+    response of the Rydberg gas. Our measurements confirm previously observed spectral
+    features for a vanishing control-field detuning that are explainable by existing
+    theories, but also reveal significant differences on two-photon resonance. In
+    particular, we find qualitative deficiencies of mean-field models and rate-equation
+    simulations in describing the nonlinear probe-field response under EIT conditions,
+    suggesting spectral signatures of an interaction-induced resonance with laser-dressed
+    entangled pair states. While this effect is captured by the third-order nonlinear
+    susceptibility that accounts for pair-wise interaction effects, the experiments
+    show that many-body processes beyond such two-body effects play a significant
+    role already at surprisingly low probe-field intensities. These results suggest
+    that a more complete understanding of Rydberg-EIT and emerging photon interactions
+    requires to go beyond existing simplified models as well as few-photon theories.'
+  day: 23
+  month: 6
+  projects: []
+  year: 2021
+PhysRevA.104.063301:
+  abstract: 'We study excitation transport in a two-dimensional system of randomly
+    assembled spins with power-law hopping in two dimensions. This model can be realized
+    in cold atom quantum simulators with Rydberg atoms. In these experiments, due
+    to the Rydberg blockade effect, the degree of disorder in the system is effectively
+    tunable by varying the spin density. We study dynamics and eigenstate properties
+    of the model as a function of disorder strength and system size and discuss potential
+    limitations for experiments. At strong disorder we observe the absence of transport
+    due to localized eigenstates with power-law tails. In this regime the spectral
+    and eigenstate properties can be understood in a perturbative picture of states
+    predominantly localized on small clusters of spins. As the disorder strength is
+    weakened eigenstates become increasingly delocalized and appear multifractal for
+    moderate system sizes. A detailed study of the system-size scaling of the eigenstate
+    properties indicates that in the infinite size limit all state eventually become
+    localized. We discuss the feasibility of observing localization effects experimentally
+    in the spatial spreading of an initially localized excitation and identify limited
+    system sizes and finite decoherence rates as major challenges. Our study paves
+    the way towards an experimental observation of localization effects in Rydberg
+    spin systems with tunable disorder. '
+  day: 4
+  month: 12
+  projects:
+    - disorder
+  year: 2021
+PhysRevA.105.012409:
+  abstract: 'We derive entropic inseparability criteria for the phase-space representation
+    of quantum states. In contrast to criteria involving differential entropies of
+    marginal phase-space distributions, our criteria are based on a joint distribution
+    known as the Husimi Q distribution. This distribution is experimentally accessible
+    in cold atoms, circuit QED architectures, and photonic systems, and bears practical
+    advantages compared to the detection of marginals. We exemplify the strengths
+    of our entropic approach by considering several classes of non-Gaussian states
+    where second-order criteria fail. We show that our criteria certify entanglement
+    in previously undetectable regions, highlighting the strength of using the Husimi
+    Q distribution for entanglement detection.'
+  day: 5
+  month: 1
+  projects:
+    - entanglement
+  year: 2022
+PhysRevB.105.L020201:
+  abstract: 'We study out-of-equilibrium dynamics in the quantum Ising model with
+    power-law interactions and positional disorder. For arbitrary dimension d and
+    interaction range α≥d we analytically find a stretched exponential decay with
+    stretch power β=d/α for the global magnetization and ensemble-averaged single-spin
+    purity in the thermodynamic limit. We reveal numerically that glassy behavior
+    persists for finite system sizes and sufficiently strong disorder. We conclude
+    that the magnetization decay is due to interaction induced dephasing while entanglement
+    builds up at a smaller rate evident from the decay of single-spin purity, thus
+    providing a microscopic understanding of glassy dynamics in disordered closed
+    quantum systems.'
+  day: 1
+  month: 1
+  projects:
+    - disorder
+  year: 2022
+PhysRevB.105.L100201:
+  abstract: 'We numerically study out-of-equilibrium dynamics in a family of Heisenberg
+    models with $\frac{1}{r^6}$ power-law interactions and positional disorder. Using
+    the semi-classical discrete truncated Wigner approximation (dTWA) method, we investigate
+    the time evolution of the magnetization and ensemble-averaged single-spin purity
+    for a strongly disordered system after initializing the system in an out-of-equilibrium
+    state. We find that both quantities display robust glassy behavior for almost
+    any value of the anisotropy parameter of the Heisenberg Hamiltonian. Furthermore,
+    a systematic analysis allows us to quantitatively show that, for all the scenarios
+    considered, the stretch power lies close to the one analytically obtained in the
+    Ising limit. This indicates that glassy relaxation behavior occurs widely in disordered
+    quantum spin systems, independent of the particular symmetries and integrability
+    of the Hamiltonian. '
+  day: 28
+  month: 3
+  projects:
+    - disorder
+  year: 2022
+PhysRevE.105.045315:
+  abstract: 'Path integrals with complex actions are encountered for many physical
+    systems ranging from spin- or mass-imbalanced atomic gases and graphene to quantum
+    chromodynamics at finite density to the nonequilibrium evolution of quantum systems.
+    Many computational approaches have been developed for tackling the sign problem
+    emerging for complex actions. Among these, complex Langevin dynamics has the appeal
+    of general applicability. One of its key challenges is the potential convergence
+    of the dynamics to unphysical fixed points. The statistical sampling process at
+    such a fixed point is not based on the physical action and hence leads to wrong
+    predictions. Moreover, its unphysical nature is hard to detect due to the implicit
+    nature of the process. In the present work we set up a general approach based
+    on a Markov chain Monte Carlo scheme in an extended state space. In this approach
+    we derive an explicit real sampling process for generalized complex Langevin dynamics.
+    Subject to a set of constraints, this sampling process is the physical one. These
+    constraints originate from the detailed-balance equations satisfied by the Monte
+    Carlo scheme. This allows us to rederive complex Langevin dynamics from a new
+    perspective and establishes a framework for the explicit construction of new sampling
+    schemes for complex actions.'
+  day: 17
+  month: 4
+  projects: []
+  year: 2022
+PhysRevLett.127.230501:
+  abstract: 'We develop a variational approach to simulating the dynamics of open
+    quantum many-body systems using deep autoregressive neural networks. The parameters
+    of a compressed representation of a mixed quantum state are adapted dynamically
+    according to the Lindblad master equation by employing a time-dependent variational
+    principle. We illustrate our approach by solving the dissipative quantum Heisenberg
+    model in one and two dimensions for up to 40 spins and by applying it to the simulation
+    of confinement dynamics in the presence of dissipation.'
+  day: 1
+  month: 12
+  projects:
+    - quantum-ann
+  year: 2021
+PhysRevLett.128.020402:
+  abstract: 'A prerequisite for the comprehensive understanding of many-body quantum
+    systems is a characterization in terms of their entanglement structure. The experimental
+    detection of entanglement in spatially extended many-body systems describable
+    by quantum fields still presents a major challenge. We develop a general scheme
+    for certifying entanglement and demonstrate it by revealing entanglement between
+    distinct subsystems of a spinor Bose-Einstein condensate. Our scheme builds on
+    the spatially resolved simultaneous detection of the quantum field in two conjugate
+    observables which allows the experimental confirmation of quantum correlations
+    between local as well as non-local partitions of the system. The detection of
+    squeezing in Bogoliubov modes in a multi-mode setting illustrates its potential
+    to boost the capabilities of quantum simulations to study entanglement in spatially
+    extended many-body systems.'
+  day: 25
+  month: 1
+  projects: []
+  year: 2022
+Rautenberg2020:
+  abstract: ""
+  day: 1
+  month: 5
+  projects: []
+  year: 2020
+SafaviNaini2018:
+  abstract: ""
+  day: 1
+  month: 7
+  projects: []
+  year: 2018
+Schempp2014:
+  abstract: ""
+  day: 1
+  month: 1
+  projects: []
+  year: 2014
+Schoenleber2014:
+  abstract: ""
+  day: 1
+  month: 3
+  projects: []
+  year: 2014
+Signoles2021:
+  abstract: ""
+  day: 1
+  month: 1
+  projects:
+    - disorder
+  year: 2021
+bergh2021entanglement:
+  abstract: 'We study experimentally accessible lower bounds on entanglement measures
+    based on entropic uncertainty relations. Experimentally quantifying entanglement
+    is highly desired for applications of quantum simulation experiments to fundamental
+    questions, e.g. in quantum statistical mechanics and condensed matter physics.
+    At the same time it poses a significant challenge as the evaluation of entanglement
+    measures typically requires the full reconstruction of the quantum state, which
+    is extremely costly in terms of measurement statistics. We derive an improved
+    entanglement bound for bipartite systems, which requires measuring joint probability
+    distributions in only two different measurement settings per subsystem, and demonstrate
+    its power by applying it to currently operational experimental setups for quantum
+    simulation with cold atoms. Examining the tightness of the derived entanglement
+    bound, we find that the set of pure states for which our relation is tight is
+    strongly restricted. We show that for measurements in mutually unbiased bases
+    the only pure states that saturate the bound are maximally entangled states on
+    a subspace of the bipartite Hilbert space (this includes product states). We further
+    show that our relation can also be employed for entanglement detection using generalized
+    measurements, i.e. when not all measurement outcomes can be resolved individually
+    by the detector. In addition, the impact of local conserved quantities on the
+    detectable entanglement is discussed.'
+  day: 21
+  month: 5
+  projects:
+    - entanglement
+  year: 2021
+bergh2021experimentally:
+  abstract: 'Entanglement is not only the resource that fuels many quantum technologies
+    but also plays a key role for some of the most profound open questions of fundamental
+    physics. Experiments controlling quantum systems at the single quantum level may
+    shed light on these puzzles. However, measuring, or even bounding, entanglement
+    experimentally has proven to be an outstanding challenge, especially when the
+    prepared quantum states are mixed. We use entropic uncertainty relations for bipartite
+    systems to derive measurable lower bounds on distillable entanglement. We showcase
+    these bounds by applying them to physical models realizable in cold-atom experiments.
+    The derived entanglement bounds rely on measurements in only two different bases
+    and are generically applicable to any quantum simulation platform. '
+  day: 21
+  month: 5
+  projects:
+    - entanglement
+  year: 2021
+https://doi.org/10.48550/arxiv.2206.01927:
+  abstract: ""
+  day: 1
+  month: 6
+  projects:
+    - quantum-ann
+  year: 2022
+klassert2021variational:
+  abstract: 'We train a neuromorphic hardware chip to approximate the ground states
+    of quantum spin models by variational energy minimization. Compared to variational
+    artificial neural networks using Markov chain Monte Carlo for sample generation,
+    this approach has the advantage that the neuromorphic device generates samples
+    in a fast and inherently parallel fashion. We develop a training algorithm and
+    apply it to the transverse field Ising model, showing good performance at moderate
+    system sizes (N≤10). A systematic hyperparameter study shows that scalability
+    to larger system sizes mainly depends on sample quality which is limited by parameter
+    drifts on the analog neuromorphic chip. The learning performance shows a threshold
+    behavior as a function of the number of variational parameters of the ansatz,
+    with approximately 50 hidden neurons being sufficient for representing critical
+    ground states up to N=10. The 6+1-bit resolution of the network parameters does
+    not limit the reachable approximation quality in the current setup. Our work provides
+    an important step towards harnessing the capabilities of neuromorphic hardware
+    for tackling the curse of dimensionality in quantum many-body problems. '
+  day: 30
+  month: 9
+  projects:
+    - quantum-ann
+  year: 2021
+schmale2021scalable:
+  abstract: 'Modern day quantum simulators can prepare a wide variety of quantum states
+    but extracting observables from the resulting "quantum data" often poses a challenge.
+    We tackle this problem by developing a quantum state tomography scheme which relies
+    on approximating the probability distribution over the outcomes of an informationally
+    complete measurement in a variational manifold represented by a convolutional
+    neural network. We show an excellent representability of prototypical ground-
+    and steady states with this ansatz using a number of variational parameters that
+    scales polynomially in system size. This compressed representation allows us to
+    reconstruct states with high classical fidelities outperforming standard methods
+    such as maximum likelihood estimation. Furthermore, it achieves a reduction of
+    the root mean square errors of observables by up to an order of magnitude compared
+    to their direct estimation from experimental data. '
+  day: 28
+  month: 9
+  projects:
+    - quantum-ann
+  year: 2021
