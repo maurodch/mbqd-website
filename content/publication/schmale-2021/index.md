@@ -19,7 +19,7 @@ date: 2021-09-28
 doi: 10.48550/arXiv.2109.13776
 projects:
   - quantum-ann
-publication: ArXiv
+publication: 'ArXiv 2109.13776'
 publication_types:
   - 2
 title: 'Scalable quantum state tomography with artificial neural networks'

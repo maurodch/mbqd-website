@@ -23,7 +23,7 @@ date: 2021-09-30
 doi: 10.48550/arXiv.2109.15169
 projects:
   - quantum-ann
-publication: ArXiv
+publication: 'ArXiv 2109.15169'
 publication_types:
   - 2
 title: 'Variational learning of quantum ground states on spiking neuromorphic hardware'
