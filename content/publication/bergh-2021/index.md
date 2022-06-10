@@ -25,7 +25,7 @@ date: 2021-05-21
 doi: 10.1103/PhysRevA.103.052412
 projects:
   - entanglement
-publication: 'Phys. Rev. A **103**, 052412 (2021)'
+publication: 'Phys. Rev. A **103**, 052412'
 publication_types:
   - 2
 title: 'Entanglement detection in quantum many-body systems using entropic uncertainty

@@ -23,7 +23,7 @@ authors:
 date: 2017-01-01
 doi: 10.1038/nphys4119
 projects: []
-publication: 'Nature Physics **13**, 781--786 (2017)'
+publication: 'Nature Physics **13**, 781--786'
 publication_types:
   - 2
 title: 'Measuring out-of-time-order correlations and multiple quantum spectra in a

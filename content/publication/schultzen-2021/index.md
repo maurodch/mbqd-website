@@ -22,7 +22,7 @@ date: 2022-01-01
 doi: 10.1103/PhysRevB.105.L020201
 projects:
   - disorder
-publication: 'Phys. Rev. B **105**, L020201 (2022)'
+publication: 'Phys. Rev. B **105**, L020201'
 publication_types:
   - 2
 title: 'Glassy quantum dynamics of disordered Ising spins'

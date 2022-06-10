@@ -16,7 +16,7 @@ date: 2021-05-21
 doi: 10.1103/PhysRevLett.126.190503
 projects:
   - entanglement
-publication: 'Phys. Rev. Lett. **126**, 190503 (2021)'
+publication: 'Phys. Rev. Lett. **126**, 190503'
 publication_types:
   - 2
 title: 'Experimentally Accessible Bounds on Distillable Entanglement from Entropic

@@ -21,7 +21,7 @@ authors:
 date: 2022-01-25
 doi: 10.1103/PhysRevLett.128.020402
 projects: []
-publication: 'Phys. Rev. Lett. **128**, 020402 (2022)'
+publication: 'Phys. Rev. Lett. **128**, 020402'
 publication_types:
   - 2
 title: 'Detecting Entanglement Structure in Continuous Many-Body Quantum Systems'

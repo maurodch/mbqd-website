@@ -18,7 +18,7 @@ date: 2022-01-05
 doi: 10.1103/PhysRevA.105.012409
 projects:
   - entanglement
-publication: 'Phys. Rev. A **105**, 012409 (2022)'
+publication: 'Phys. Rev. A **105**, 012409'
 publication_types:
   - 2
 title: 'Entropic entanglement criteria in phase space'

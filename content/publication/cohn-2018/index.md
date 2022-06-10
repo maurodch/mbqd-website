@@ -22,7 +22,7 @@ authors:
 date: 2018-05-01
 doi: 10.1088/1367-2630/aac3fa
 projects: []
-publication: 'New J. Phys. **20**, 055013 (2018)'
+publication: 'New J. Phys. **20**, 055013'
 publication_types:
   - 2
 title: 'Bang-bang shortcut to adiabaticity in the Dicke model as realized in a Penning

@@ -25,7 +25,7 @@ date: 2022-03-28
 doi: 10.1103/PhysRevB.105.L100201
 projects:
   - disorder
-publication: 'Phys. Rev. B **105**, L100201 (2022)'
+publication: 'Phys. Rev. B **105**, L100201'
 publication_types:
   - 2
 title: 'Semiclassical simulations predict glassy dynamics for disordered Heisenberg

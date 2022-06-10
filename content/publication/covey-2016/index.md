@@ -27,7 +27,7 @@ authors:
 date: 2016-01-01
 doi: 10.1038/ncomms11279
 projects: []
-publication: 'Nat. Commun. **7**, 11279 (2016)'
+publication: 'Nat. Commun. **7**, 11279'
 publication_types:
   - 2
 title: 'Doublon dynamics and polar molecule production in an optical lattice'

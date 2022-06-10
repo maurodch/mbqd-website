@@ -8,7 +8,7 @@ authors:
 date: 2022-04-01
 doi: 10.1038/s41567-022-01592-1
 projects: []
-publication: 'Nature Physics (2022)'
+publication: 'Nature Physics'
 publication_types:
   - 2
 title: 'Pairing with strings attached'

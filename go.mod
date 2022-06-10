@@ -1,8 +1,8 @@
-module github.com/wowchemy/starter-research-group
+module github.com/wowchemy/starter-hugo-research-group
 
-go 1.15
+go 1.14
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201228231801-219b05cbd2c4 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201228231801-219b05cbd2c4 // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220423180919-17d5d3f0ca43 // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220423180919-17d5d3f0ca43 // indirect
 )

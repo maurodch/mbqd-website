@@ -16,7 +16,7 @@ authors:
 date: 2016-01-01
 doi: 10.1103/PhysRevA.93.012507
 projects: []
-publication: 'Phys. Rev. A **93**, 012507 (2016)'
+publication: 'Phys. Rev. A **93**, 012507'
 publication_types:
   - 2
 title: 'Molecular wave-packet dynamics on laser-controlled transition states'

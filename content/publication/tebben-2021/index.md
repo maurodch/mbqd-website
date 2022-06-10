@@ -28,7 +28,7 @@ authors:
 date: 2021-06-23
 doi: 10.1103/PhysRevA.103.063710
 projects: []
-publication: 'Phys. Rev. A **103**, 063710 (2021)'
+publication: 'Phys. Rev. A **103**, 063710'
 publication_types:
   - 2
 title: 'Nonlinear absorption in interacting Rydberg electromagnetically-induced-transparency

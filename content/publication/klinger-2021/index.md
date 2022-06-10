@@ -23,7 +23,7 @@ date: 2021-12-04
 doi: 10.1103/PhysRevA.104.063301
 projects:
   - disorder
-publication: 'Phys. Rev. A **104**, 063301 (2021)'
+publication: 'Phys. Rev. A **104**, 063301'
 publication_types:
   - 2
 title: 'Single-particle localization in a two-dimensional Rydberg spin system'

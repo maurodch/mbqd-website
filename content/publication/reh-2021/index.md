@@ -14,7 +14,7 @@ date: 2021-12-01
 doi: 10.1103/PhysRevLett.127.230501
 projects:
   - quantum-ann
-publication: 'Phys. Rev. Lett. **127**, 230501 (2021)'
+publication: 'Phys. Rev. Lett. **127**, 230501'
 publication_types:
   - 2
 title: 'Time-Dependent Variational Principle for Open Quantum Systems with Artificial

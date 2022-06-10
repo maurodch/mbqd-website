@@ -17,7 +17,7 @@ authors:
 date: 2018-10-01
 doi: 10.1088/2058-9565/aae3f7
 projects: []
-publication: 'Quantum Sci. Technol **4**, 014006 (2018)'
+publication: 'Quantum Sci. Technol **4**, 014006'
 publication_types:
   - 2
 title: 'Quenches near criticality of the quantum Ising chain—power and limitations

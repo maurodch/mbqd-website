@@ -14,11 +14,13 @@
     {{/* Show the About widget if an account exists for this user. */}}
     {{ if .File }}
       {{ $widget := "widgets/about.html" }}
-      {{ $username := (path.Base (path.Split .Path).Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
+      {{ $username := (path.Base .File.Dir) }}{{/* Alternatively, use `index .Params.authors 0` */}}
       {{ $params := dict "root" $ "page" . "author" $username }}
       {{ partial $widget $params }}
     {{end}}
 
+    {{/* $query := where .Pages ".IsNode" false */}}
+    {{/* Limit related to newest 5 */}}
     {{ $query := sort (where .Pages ".IsNode" false) "Date" "desc" | first 5 }}
     {{ $count := len $query }}
     {{ if $count }}
@@ -33,8 +35,7 @@
       </ul>
     </div>
     {{ end }}
-  </div> 
-  
+  </div>
 </section>
 
 {{- end -}}

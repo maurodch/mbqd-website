@@ -23,7 +23,7 @@ authors:
 date: 2022-04-17
 doi: 10.1103/PhysRevE.105.045315
 projects: []
-publication: 'Phys. Rev. E **105**, 045315 (2022)'
+publication: 'Phys. Rev. E **105**, 045315'
 publication_types:
   - 2
 title: 'Monte Carlo sampling of complex actions in extended state spaces'

@@ -32,7 +32,7 @@ doi: 10.1126/science.aao2254
 projects:
   - entanglement
   - bec
-publication: 'Science **360**, 413--416 (2018)'
+publication: 'Science **360**, 413--416'
 publication_types:
   - 2
 title: 'Spatially distributed multipartite entanglement enables EPR steering of atomic
