@@ -11,7 +11,7 @@
     {{ partial "page_metadata_authors" $item }}
   </span>
   {{/*({{- $item.Date.Format "2006" -}}). Remove this here and put after journal*/}}
-  <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+  <a href="https://doi.org/{{ $item.Params.doi }}" target="_blank" rel="noopener">{{ $item.Title }}</a>.
   {{ if $item.Params.publication_short }}
     {{- $item.Params.publication_short | markdownify -}}
   {{ else if $item.Params.publication }}
