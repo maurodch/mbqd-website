@@ -1,0 +1,42 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Many-body dynamics of disordered Rydberg spin systems
+event: CRC Lunch Seminar
+event_url: https://www.isoquant-heidelberg.de/activity/crc-1225-lunch-seminar-june-2022/
+# subtitle: 
+summary: Overview of CRC project A05 (Dynamics of tunable disordered many-body spin systems)
+authors:
+- gaerttner
+
+tags:
+- Talk
+
+categories: 'Talk'
+date: '2022-06-21'
+featured: false
+draft: false
+
+# Display author profile cards at the end of the page
+profile: true
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+- disorder
+
+
+# Enable math on this page?
+math: true
+---
+Rydberg atoms are a versatile quantum simulator platform and allow for long coherence and a high degree of tunability. For example, they can straight-forwardly realize a Heisenberg XXZ model with power-law couplings where the Rydberg blockade radius allows for tuning the width of the coupling's distribution.
