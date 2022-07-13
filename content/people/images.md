@@ -15,6 +15,9 @@ weight: 40
 
 gallery_item:
  - album: grouppics
+   image: grouppics/2022_neckarwiese.jpg
+   caption: "Yearly group BBQ on Neckarwiese in summer 2022 (left-to-right: Max R., Martin, Leo, Max M., Niklas, Adrian A., Moritz, Adrian B., Johannes)"
+ - album: grouppics
    image: grouppics/2021_group_retreat_hut.jpg
    caption: Group retreat to Jamtalhütte in summer 2021 
  - album: grouppics
