@@ -15,9 +15,11 @@ design:
 title: Collaborations
 subtitle:
 ---
-We collaborate closely with other experimental and theoretical groups of Markus Oberthaler and Thomas Gasenzer within the <a href="https://www.synqs.org/">Synthetic Quantum Systems (SynQS)</a> collaboration.
+We collaborate closely with the groups of Markus Oberthaler and Thomas Gasenzer within the <a href="https://www.synqs.org/">Synthetic Quantum Systems (SynQS)</a> collaboration.
 
-We enjoy close collaborations with the groups of M. Weidemüller, S. Jochim, S. Floerchinger, J. Pawlowski, A. Baumbach, M. Petrovici and the BrainScales group at Heidelberg University.
+We enjoy close collaborations with the groups of M. Weidemüller, S. Jochim, J. Pawlowski, A. Baumbach, M. Petrovici and the BrainScales group at Heidelberg University.
+
+We are collaborating with S. Floerchinger at Jena University, and Tobias Haas at Brussels University on entanglement witnessing in continuous variable systems.
 
 We are collaborating with Markus Schmitt from Köln University on neural network quantum states.
 
