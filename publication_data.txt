@@ -483,6 +483,44 @@ https://doi.org/10.48550/arxiv.2206.01927:
   projects:
     - quantum-ann
   year: 2022
+https://doi.org/10.48550/arxiv.2207.14216:
+  abstract: 'Understanding how closed quantum systems dynamically approach thermal
+    equilibrium presents a major unresolved problem in statistical physics. Generically,
+    it is expected that non-integrable quantum systems thermalize as they comply with
+    the Eigenstate Thermalization Hypothesis (ETH). A notable exception to this is
+    the phenomenon of many-body localization, where the emergence of local conserved
+    quantities prevents thermalization, which has been observed in finite low-dimensional
+    systems. We study an ensemble of Heisenberg spins with a tunable distribution
+    of random coupling strengths realized by a Rydberg quantum simulator. The total
+    magnetization as a function of external field after a quench serves as a probe
+    for thermalization. We find that such an isolated quantum system exhibits a non-thermalizing
+    regime despite being non-integrable. It is shown that thermalization can be restored
+    by reducing the disorder in the coupling strengths. As our system consists of
+    up to 4000 spins, we thus show that closed quantum systems can fail to reach thermal
+    equilibrium even at system sizes approaching the thermodynamic limit.'
+  day: 1
+  month: 7
+  projects:
+    - disorder
+  year: 2022
+https://doi.org/10.48550/arxiv.2207.14474:
+  abstract: 'Strongly interacting quantum systems subject to quenched disorder exhibit
+    intriguing phenomena such as glassiness and many-body localization. Theoretical
+    studies have mainly focused on disorder in the from of random potentials, while
+    many experimental realizations naturally feature disorder in the interparticle
+    interactions. Inspired by cold Rydberg gases, where such disorder can be engineered
+    using the dipole blockade effect, we study a Heisenberg XXZ spin model where the
+    disorder is exclusively due to random spin-spin couplings, arising from power-law
+    interactions between randomly positioned spins. Using established spectral and
+    eigenstate properties and entanglement entropy, we show that this system exhibits
+    a localization crossover and identify strongly interacting pairs as emergent local
+    conserved quantities in the system, leading to an intuitive physical picture consistent
+    with our numerical results. '
+  day: 1
+  month: 7
+  projects:
+    - disorder
+  year: 2022
 klassert2021variational:
   abstract: 'We train a neuromorphic hardware chip to approximate the ground states
     of quantum spin models by variational energy minimization. Compared to variational
