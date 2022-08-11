@@ -37,7 +37,7 @@ links:
   - icon_pack: fas
     icon: arrow-circle-right
     name: Tutorials
-    url: 'https://uebungen.physik.uni-heidelberg.de/v/1560'
+    url: 'https://uebungen.physik.uni-heidelberg.de/vorlesung/20222/1560'
 
 
 # Projects (optional).
@@ -65,7 +65,7 @@ Topics include:
 
 Dates and time: Mondays 14:15-16:00h, INF 227 / SR 1.403/4, first session on 17.10.2022, Tutorials: Wednesday 16:15-18:, INF 227 / SR 3.402
 
-Heidelberg students should sign up for the lecture in the exercise group system at: https://uebungen.physik.uni-heidelberg.de/v/1560
+Heidelberg students should sign up for the lecture in the exercise group system at: https://uebungen.physik.uni-heidelberg.de/vorlesung/20222/1560
 	
 Course materials will be provided on a separate platform.
 
