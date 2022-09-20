@@ -33,6 +33,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:adrian.braemer@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+- link: https://scholar.google.com/citations?user=Jufb1bUAAAAJ&hl=en
+  icon_pack: ai
+  icon: google-scholar
+- link: https://orcid.org/0000-0002-1532-082X
+  icon_pack: ai
+  icon: orcid
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
