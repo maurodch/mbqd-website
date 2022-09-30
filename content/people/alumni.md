@@ -15,6 +15,8 @@ design:
 title: Former members
 subtitle:
 ---
+ - Maximilian Rieger (Bachelor September 2022), now master student in Heidelberg
+ - Johannes Noll (Bachelor September 2022), now master student in Heidelberg
  - Oliver Stockdale, PhD student until May 2022
  - Tim Rein (Bachelor March 2022), now master student at Cambridge University
  - Tobias Schmale (Master October 2021), now at Hannover University
