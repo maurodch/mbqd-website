@@ -15,6 +15,12 @@ weight: 40
 
 gallery_item:
  - album: grouppics
+   image: grouppics/2022_group_retreat_hut.jpg
+   caption: Group retreat to Hanauer Hütte in summer 2022
+ - album: grouppics
+   image: grouppics/2022_group_retreat_lake.jpg
+   caption: At Steinsee during the group retreat (summer 2022)
+ - album: grouppics
    image: grouppics/2022_neckarwiese.jpg
    caption: "Yearly group BBQ on Neckarwiese in summer 2022 (left-to-right: Max R., Martin, Leo, Max M., Niklas, Adrian A., Moritz, Adrian B., Johannes)"
  - album: grouppics
