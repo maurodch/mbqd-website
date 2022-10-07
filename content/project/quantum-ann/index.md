@@ -14,7 +14,7 @@ authors:
 #- schmale
 - aasen
 - grabitz
-- rieger
+#- rieger
 
 # Determines ordering of projects
 weight: 4
