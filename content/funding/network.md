@@ -14,7 +14,7 @@ design:
 
 title: Networks and Funding
 subtitle:
---- 
+---
 <style>
   .funding-row {
     margin: 25px 5px;
@@ -57,10 +57,10 @@ subtitle:
       <span>We are funded by the DFG within the Collaborative Research Center ISOQUANT (SFB1225). Within this network we study entanglement in quantum fields (Project A06) and the dynamics of disordered quantum systems (Project A05) in collaboration with experimental and theoretical groups.</span>
     </div>
   </div>
-    
+
   <div class="funding-row">
     <div class="funding-cell">
-      <a href="hhttps://www.bwstiftung.de/de/programm/quantentechnologie/">
+      <a href="https://www.bwstiftung.de/de/programm/quantentechnologie/">
         <img src="/logos/bw_stiftung.png" alt="Baden-Württemberg foundation">
       </a>
     </div>
@@ -77,7 +77,7 @@ subtitle:
       </a>
     </div>
     <div class="funding-cell">
-      <span>We are funded by the Cluster of Excellence STRUCTURES within which we collaborate with Razvan Gurau in an <a href="https://structures.uni-heidelberg.de/eps.html">exploratory project</a> on "Emergent phases of matter in driven disordered spin systems".</span>
+      <span>We are funded by the Cluster of Excellence STRUCTURES within which we collaborate with Razvan Gurau and Christoph Schnörr on two exploratory projects.</span>
     </div>
   </div>
 </div>
