@@ -89,7 +89,17 @@ Gaerttner2010:
   projects: []
   year: 2010
 Gaerttner2012:
-  abstract: ""
+  abstract: 'The dependence of the number of Rydberg excitations in a laser-driven
+    cloud of atoms on the interaction strength is found to be affected by the finite
+    size of the system. A theoretical model predicting a simple power-law dependence
+    is compared with results extracted from a numerical many-body simulation. We find
+    that for finite-size systems the numerical results do not agree with the analytical
+    prediction. By individually testing the assumptions leading to the theoretical
+    prediction using the results from the numerical analysis, we identify the origin
+    of the deviations, and explain it as arising from the finite size of the system.
+    Furthermore, finite-size effects in the pair correlation function g(2) are predicted.
+    Finally, in larger ensembles, we find that the theoretical predictions and the
+    numerical results agree, provided that the system is sufficiently homogeneous.'
   day: 1
   month: 9
   projects: []
@@ -338,6 +348,21 @@ PhysRevA.105.012409:
   projects:
     - entanglement
   year: 2022
+PhysRevA.86.063421:
+  abstract: 'A model for the simulation of ensembles of laser-driven Rydberg-Rydberg
+    interacting multilevel atoms is discussed. Our hybrid approach combines an exact
+    two-body treatment of nearby atom pairs with an effective approximate treatment
+    for spatially separated pairs. We propose an optimized evolution equation based
+    only on the system steady state, and a time-independent Monte Carlo technique
+    is used to efficiently determine this steady state. The hybrid model predicts
+    features in the pair-correlation function arising from multiatom processes which
+    existing models can only partially reproduce. Our interpretation of these features
+    shows that higher-order correlations are relevant already at low densities. Finally,
+    we analyze the performance of our model in the high-density case.'
+  day: 1
+  month: 12
+  projects: []
+  year: 2012
 PhysRevB.105.L020201:
   abstract: 'We study out-of-equilibrium dynamics in the quantum Ising model with
     power-law interactions and positional disorder. For arbitrary dimension d and
