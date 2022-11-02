@@ -16,11 +16,11 @@ authors:
   - 'Titus Franz'
   - 'Matthias Weidemüller'
   - gaerttner
-date: 2022-07-01
-doi: 10.48550/arXiv.2207.14474
+date: 2022-10-01
+doi: 10.1103/PhysRevB.106.134212
 projects:
   - disorder
-publication: 'ArXiv 2207.14474'
+publication: 'Phys. Rev. B **106**, 134212'
 publication_types:
   - 2
 title: 'Pair localization in dipolar systems with tunable positional disorder'
