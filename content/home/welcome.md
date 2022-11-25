@@ -48,7 +48,7 @@ hero_media = ""
   icon = "file"
 
 [cta_alt]
-  url = "people"
+  url = "ideas"
   label = "Join the team"
 +++
 

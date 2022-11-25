@@ -24,4 +24,4 @@ design:
   show_social: true
 ---
 
-We are always looking for motivated students! Please look at [Contacts](/#contact) to get in touch!
+We are always looking for motivated students! Please look at our current [project ideas](/ideas) and [get in touch](/#contact)!
