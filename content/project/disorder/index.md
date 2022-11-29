@@ -12,6 +12,7 @@ authors:
 - euler
 - muellenbach
 - sinan
+- benn
 
 # Determines ordering of projects
 weight: 3

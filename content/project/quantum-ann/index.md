@@ -15,6 +15,7 @@ authors:
 - aasen
 - grabitz
 #- rieger
+- stock
 
 # Determines ordering of projects
 weight: 4
