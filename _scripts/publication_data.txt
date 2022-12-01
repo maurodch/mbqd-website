@@ -557,6 +557,27 @@ braemerPairLocalizationDipolar2022:
   projects:
     - disorder
   year: 2022
+gaerttner2022detecting:
+  abstract: ""
+  day: 1
+  month: 11
+  projects:
+    - entanglement
+  year: 2022
+gaerttner2022general:
+  abstract: ""
+  day: 1
+  month: 11
+  projects:
+    - entanglement
+  year: 2022
+gaerttner2022optimizing:
+  abstract: ""
+  day: 1
+  month: 11
+  projects:
+    - entanglement
+  year: 2022
 https://doi.org/10.48550/arxiv.2206.01927:
   abstract: ""
   day: 1
