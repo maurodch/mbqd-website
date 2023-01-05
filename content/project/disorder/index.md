@@ -13,6 +13,7 @@ authors:
 - muellenbach
 - sinan
 - benn
+- vahedi
 
 # Determines ordering of projects
 weight: 3

@@ -11,6 +11,7 @@ authors:
 #- euler
 #- rein
 #- noll
+- vahedi
 
 # Determines ordering of projects
 weight: 1
