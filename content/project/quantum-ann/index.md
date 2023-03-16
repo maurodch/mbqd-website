@@ -13,9 +13,9 @@ authors:
 #- epping
 #- schmale
 - aasen
-- grabitz
+#- grabitz
 #- rieger
-- stock
+#- stock
 - vahedi
 
 # Determines ordering of projects

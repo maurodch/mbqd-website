@@ -15,6 +15,10 @@ design:
 title: Former members
 subtitle:
 ---
+ - Etienne Stock (Bachelor March 2023)
+ - Luca Benn (Bachelor March 2023)
+ - Mohammed Sinan (Master February 2023), now in Barcelona
+ - Maximilian Müllenbach (Master January 2023, co-supervision with M. Weidemüller), now PhD in Strasbourg in the group of Shannon Whitlock
  - Maximilian Rieger (Bachelor September 2022), now master student in Heidelberg
  - Johannes Noll (Bachelor September 2022), now master student in Heidelberg
  - Oliver Stockdale, PhD student until May 2022
