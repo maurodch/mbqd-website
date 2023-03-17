@@ -9,6 +9,23 @@
   weight = 10
 
 [[main]]
+  name = "Opportunities"
+  identifier = "opportunities"
+  weight = 15
+
+[[main]]
+  name = "Open positions"
+  parent = "opportunities"
+  url = "hire"
+  weight = 10
+
+[[main]]
+  name = "Project ideas"
+  parent = "opportunities"
+  url = "ideas"
+  weight = 20
+
+[[main]]
   name = "Research"
   identifier = "research"
   weight = 20

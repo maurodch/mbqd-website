@@ -16,5 +16,5 @@ weight = 20  # Order that this section will appear.
   columns = "1" # Choose how many columns the section has. Valid values: 1 or 2.
 
 +++
-This group, led by <a href="/author/martin-garttner">Martin Gärttner</a>, is located at Heidelberg University in a superposition state between <a href="https://www.physi.uni-heidelberg.de">Physikalisches Institut</a>, <a href="https://www.kip.uni-heidelberg.de">Kirchhoff-Institute for Physics</a>, within the <a href="https://www.synqs.org">Synthetic Quantum Systems group</a>, and the <a href="https://www.thphys.uni-heidelberg.de/">Institute for Theoretical Physics</a>.
+This group, led by <a href="/author/martin-garttner">Martin Gärttner</a>, will be moving from Heidelberg to Jena in September! We are [hiring PhDs and postdocs](/hire)!
 
