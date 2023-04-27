@@ -15,6 +15,7 @@ design:
 title: Former members
 subtitle:
 ---
+ - András Czégel (Intern August 2022 - April 2023)
  - Etienne Stock (Bachelor March 2023)
  - Luca Benn (Bachelor March 2023)
  - Mohammed Sinan (Master February 2023), now in Barcelona
