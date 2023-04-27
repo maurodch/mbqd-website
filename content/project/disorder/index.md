@@ -14,6 +14,7 @@ authors:
 #- sinan
 #- benn
 - vahedi
+- erpelding
 
 # Determines ordering of projects
 weight: 3
