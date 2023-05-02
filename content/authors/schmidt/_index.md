@@ -22,9 +22,10 @@ organizations:
 
 # List each interest with a dash
 interests:
-- Many-body Quantum Dynamics
-- Entanglement
-- Machine Learning
+- Many-body quantum dynamics
+- Quantum state tomography
+- Machine learning
+​​​​​- Neural networks 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -36,7 +37,7 @@ user_groups:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:name.nachname@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:sebastian.schmidt@stud.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/HANDLE
