@@ -25,7 +25,7 @@ interests:
 - Many-body quantum dynamics
 - Quantum state tomography
 - Machine learning
-​​​​​- Neural networks 
+- Neural networks 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
