@@ -5,15 +5,14 @@ authors:
   - 'B. Boll'
   - 'D. Sitenko'
   - 'D. Gonzalez-Alvarado'
-  - 'M. G"arttner'
+  - gaerttner
   - 'P. Albers'
-  - 'C. Schn"orr'
+  - 'C. Schnörr'
 date: 2023-05-01
 doi: ""
 projects:
-  - quantum-ann
-publication: ', 743--756'
+publication: ' **14009**, 743-756'
 publication_types:
   - 2
-title: '{Quantum State Assignment Flows}'
+title: 'Quantum State Assignment Flows'
 ---
