@@ -509,6 +509,15 @@ Schoenleber2014:
   month: 3
   projects: []
   year: 2014
+Schwarz:2023:
+  abstract: ""
+  day: 1
+  doi: ""
+  journal: ""
+  month: 5
+  projects:
+    - quantum-ann
+  year: 2023
 Signoles2021:
   abstract: ""
   day: 1
@@ -575,6 +584,13 @@ braemerPairLocalizationDipolar2022:
   projects:
     - disorder
   year: 2022
+euler2023detecting:
+  abstract: ""
+  day: 1
+  month: 5
+  projects:
+    - entanglement
+  year: 2023
 gaerttner2022detecting:
   abstract: ""
   day: 1
