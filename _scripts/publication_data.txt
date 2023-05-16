@@ -518,6 +518,14 @@ Schwarz:2023:
   projects:
     - quantum-ann
   year: 2023
+Schwarz:2023aa:
+  abstract: ""
+  day: 1
+  doi: ""
+  journal: ""
+  month: 5
+  projects: []
+  year: 2023
 Signoles2021:
   abstract: ""
   day: 1
