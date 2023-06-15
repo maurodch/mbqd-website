@@ -17,12 +17,12 @@ authors:
   - reh
   - 'Markus Schmitt'
   - gaerttner
-date: 2023-01-01
-doi: 10.48550/arXiv.2301.06788
+date: 2023-05-01
+doi: 10.1103/PhysRevB.107.195115
 projects:
   - quantum-ann
-publication: 'ArXiv 2301.06788'
+publication: 'Phys. Rev. B **107**, 195115'
 publication_types:
   - 2
-title: 'Optimizing Design Choices for Neural Quantum States'
+title: 'Optimizing design choices for neural quantum states'
 ---

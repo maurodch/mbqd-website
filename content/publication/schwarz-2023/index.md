@@ -9,8 +9,8 @@ authors:
   - 'P. Albers'
   - 'C. Schnörr'
 date: 2023-05-01
-doi: ""
-projects:
+doi: 10.1007/978-3-031-31975-4_57
+projects: []
 publication: ' **14009**, 743-756'
 publication_types:
   - 2
