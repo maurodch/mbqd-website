@@ -48,8 +48,8 @@ hero_media = ""
   icon = "file"
 
 [cta_alt]
-  url = "hire"
-  label = "PhD and Postdoc positions available"
+  url = "people"
+  label = "Meet the team"
 +++
 
 We investigate collective phenomena emerging in quantum many-body systems through numerical modelling and quantum simulation experiments.
