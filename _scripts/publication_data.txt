@@ -767,3 +767,9 @@ schmale2021scalable:
   projects:
     - quantum-ann
   year: 2021
+schwarz2023quantum:
+  abstract: ""
+  day: 1
+  month: 7
+  projects: []
+  year: 2023
