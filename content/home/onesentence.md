@@ -16,5 +16,5 @@ weight = 20  # Order that this section will appear.
   columns = "1" # Choose how many columns the section has. Valid values: 1 or 2.
 
 +++
-This group, led by <a href="/author/martin-garttner">Martin Gärttner</a>, will be moving from Heidelberg to Jena in September!
+This group, led by <a href="/author/martin-garttner">Martin Gärttner</a>, has recently moved to <a href="https://www.ifto.uni-jena.de/">IFTO at Jena University</a>!
 
