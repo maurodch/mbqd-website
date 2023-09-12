@@ -27,19 +27,19 @@ content:
   #    # Enable CAPTCHA challenge to reduce spam?
   #    captcha: false
 
-  email: marting@kip.uni-heidelberg.de
-  phone: '+49 6221 54 9852'
+  email: martin.gaerttner@uni-jena.de
+  phone: '+49 3641 9-47151'
   address:
-    street: 'Im Neuenheimer Feld 227'
-    city: Heidelberg
-    region: 'Baden-Württemberg'
-    postcode: '69120'
+    street: 'Fröbelstieg 1'
+    city: Jena
+    region: 'Thüringen'
+    postcode: '07743'
     country: Germany
     country_code: DE	
   coordinates:
-    latitude: '49.41627686041282'
-    longitude: '8.671862598306253'
-  directions: 'Office: 02.108'
+    latitude: '50.93381570940196'
+    longitude: '11.580601218281927'
+  directions: 'Abbeanum: Office room 104 (Secretary: room 108)'
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
