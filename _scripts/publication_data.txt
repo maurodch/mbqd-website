@@ -773,6 +773,22 @@ klassert2021variational:
   projects:
     - quantum-ann
   year: 2021
+rieger2023sampleefficient:
+  abstract: 'We explore a supervised machine learning approach to estimate the entanglement
+    entropy of multi-qubit systems from few experimental samples. We put a particular
+    focus on estimating both aleatoric and epistemic uncertainty of the network''s
+    estimate and benchmark against the best known conventional estimation algorithms.
+    For states that are contained in the training distribution, we observe convergence
+    in a regime of sample sizes in which the baseline method fails to give correct
+    estimates, while extrapolation only seems possible for regions close to the training
+    regime. As a further application of our method, highly relevant for quantum simulation
+    experiments, we estimate the quantum mutual information for non-unitary evolution
+    by training our model on different noise strengths. '
+  day: 1
+  month: 9
+  projects:
+    - quantum-ann
+  year: 2023
 schmale2021scalable:
   abstract: 'Modern day quantum simulators can prepare a wide variety of quantum states
     but extracting observables from the resulting "quantum data" often poses a challenge.
