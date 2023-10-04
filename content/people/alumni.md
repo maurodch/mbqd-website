@@ -15,6 +15,7 @@ design:
 title: Former members
 subtitle:
 ---
+ - Sebastian Schmidt (Intern April 2023 - September 2023)
  - András Czégel (Intern August 2022 - April 2023)
  - Etienne Stock (Bachelor March 2023)
  - Luca Benn (Bachelor March 2023)
