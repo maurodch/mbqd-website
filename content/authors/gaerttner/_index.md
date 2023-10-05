@@ -17,6 +17,7 @@ superuser: true
 
 # List each interest with a dash
 interests:
+- Quantum technologies
 - Many-body quantum dynamics
 - Quantum thermalization
 - Entanglement detection
@@ -63,7 +64,8 @@ weight: 2
 ---
 
 ## Short CV:
-- 2020-     Group leader at Physics Institute and Kirchhoff-Institute for Physics, Heidelberg
+- 2023-     Professor of Physics (Quantum information theory) at Institute of Condensed Matter Theory and Optics, Friedrich-Schiller-University Jena
+- 2020-2023 Group leader at Physics Institute and Kirchhoff-Institute for Physics, Heidelberg
 - 2017-2020 Postdoc/Junior group leader at Kirchhoff-Institute for Physics, Heidelberg
 - 2014-2016 Postdoc at JILA, Boulder
 - 2013-2014 Postdoc at MPIK
