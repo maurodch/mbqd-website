@@ -39,6 +39,9 @@ social:
 - link: https://orcid.org/0000-0002-1532-082X
   icon_pack: ai
   icon: orcid
+- link: https://github.com/abraemer
+  icon_pack: fab
+  icon: github
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
