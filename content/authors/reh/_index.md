@@ -14,8 +14,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Heidelberg University
-  url: "https://www.uni-heidelberg.de"
+- name: Jena University
+  url: "https://www.uni-jena.de/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: ""

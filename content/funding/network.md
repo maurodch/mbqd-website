@@ -32,7 +32,7 @@ subtitle:
 
     .funding-cell:nth-child(1) {
       width: 30%;
-      padding: 5%;
+      /*padding: 5%;*/
     }
 
     .funding-row {
@@ -48,6 +48,16 @@ subtitle:
 
 <div class="funding-table">
   <div class="funding-row">
+    <div class="funding-cell">
+      <a href="https://www.isoquant-heidelberg.de/">
+        <img src="/logos/acp.jpg" alt="ACP logo Jena">
+      </a>
+    </div>
+    <div class="funding-cell">
+      <span>Martin Gärttner is a principal scientist within the <a href="https://www.acp.uni-jena.de/">Abbe Center of Photonics</a>, which bundles research activities in optics and photonics in Jena.</span>
+    </div>
+  </div>
+    <div class="funding-row">
     <div class="funding-cell">
       <a href="https://www.isoquant-heidelberg.de/">
         <img src="/logos/isoquant.jpg" alt="SFB 1225 ISOQUANT">
@@ -81,4 +91,3 @@ subtitle:
     </div>
   </div>
 </div>
-

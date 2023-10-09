@@ -6,8 +6,8 @@ authors:
 
 # Organizations/Affiliations
 organizations:
-- name: Heidelberg University
-  url: "https://www.uni-heidelberg.de"
+- name: Jena University
+  url: "https://www.uni-jena.de/"
 
 superuser: true
 
@@ -32,7 +32,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:martin.gaerttner@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:martin.gaerttner@uni-jena.de"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GaerttnerGroup
@@ -60,7 +60,7 @@ user_groups:
 # Principal Investigator: 1-9,
 # Researchers: 101-199 (PostDocs), 201-299 (PhD), 301-399 (Master), 401-499 (Bachelor)
 # Administration: >1000
-weight: 2
+weight: 1
 ---
 
 ## Short CV:

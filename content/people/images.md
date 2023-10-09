@@ -15,6 +15,18 @@ weight: 40
 
 gallery_item:
  - album: grouppics
+   image: grouppics/2023_group_retreat_1.jpg
+   caption: Group retreat to Kaltenberghütte Hütte in summer 2023
+ - album: grouppics
+   image: grouppics/2023_group_retreat_1.jpg
+   caption: Group retreat to Kaltenberghütte Hütte in summer 2023
+ - album: grouppics
+   image: grouppics/2023_group_retreat_climb.jpg
+   caption: Top rope near Kaltenberghütte during group retreat in summer 2023.
+ - album: grouppics
+   image: grouppics/2023_group_retreat_panorama.jpg
+   caption: Panorama shot from the group retreat in summer 2023
+ - album: grouppics
    image: grouppics/2022_group_retreat_hut.jpg
    caption: Group retreat to Hanauer Hütte in summer 2022
  - album: grouppics

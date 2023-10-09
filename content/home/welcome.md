@@ -11,7 +11,7 @@ headless = true  # This file represents a page section.
 active = true
 weight = 10  # Order that this section will appear.
 
-title = "Many-Body Quantum Dynamics"
+title = "Quantum information and many-body theory"
 hero_media = ""
 
 
@@ -52,4 +52,4 @@ hero_media = ""
   label = "Meet the team"
 +++
 
-We investigate collective phenomena emerging in quantum many-body systems through numerical modelling and quantum simulation experiments.
+We investigate the use of synthetic quantum systems for quantum technologies and for studying quantum many-body phenomena.

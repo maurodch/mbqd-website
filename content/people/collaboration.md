@@ -15,12 +15,10 @@ design:
 title: Collaborations
 subtitle:
 ---
-We collaborate closely with the groups of Markus Oberthaler and Thomas Gasenzer within the <a href="https://www.synqs.org/">Synthetic Quantum Systems (SynQS)</a> collaboration.
+We are collaborating with...
 
-We enjoy close collaborations with the groups of M. Weidemüller, S. Jochim, J. Pawlowski, A. Baumbach, M. Petrovici and the BrainScales group at Heidelberg University.
-
-We are collaborating with S. Floerchinger at Jena University, and Tobias Haas at Brussels University on entanglement witnessing in continuous variable systems.
-
-We are collaborating with Markus Schmitt from Köln University on neural network quantum states.
-
-We are collaborating with Alexey Ustinov from Karlsruher Institut für Technologie on neural network quantum state tomography in the framework of the competence network Quantum Technologies – Baden-Württemberg.
+- [Matthias Weidemüller](https://www.physi.uni-heidelberg.de/Forschung/QD/index.php?show=projects&project=rydberg) on Rydberg spin systems and Markus Oberthaler on Bose Einstein condensates.
+- [Christoph Schnörr](https://hci.iwr.uni-heidelberg.de/ipa/prof-christoph-schn%C3%B6rr) on geometric aspects of quantum states and their variational parametrizations.
+- [Stefan Floerchinger](https://www.tpi.uni-jena.de/~floerchinger/) at Jena University, and Tobias Haas at Brussels University on entanglement witnessing in continuous variable systems.
+- [Markus Schmitt](https://www.computational-quantum.science/) from Köln University on neural network quantum states.
+- [Alexey Ustinov](https://www.phi.kit.edu/ustinov.php) from Karlsruher Institut für Technologie on neural network quantum state tomography in the framework of the competence network Quantum Technologies – Baden-Württemberg.

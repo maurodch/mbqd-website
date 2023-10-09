@@ -8,10 +8,11 @@ title_short: Entanglement
 authors:
 - gaerttner
 #- stockdale
-#- euler
+- euler
 #- rein
 #- noll
 - vahedi
+- dachille
 
 # Determines ordering of projects
 weight: 1
@@ -21,8 +22,8 @@ external_link: ""
 
 tags:
 - topics
-- ultracold atoms
-- quantum mechanics
+- entanglement
+- certification
 
 image:
   caption: ""
@@ -48,5 +49,5 @@ slides: ""
 math: true
 ---
 
-Entanglement, which Erwin Schrödinger coined the characteristic treat of quantum mechanics, is the resource that renders many quantum technologies superior to their classical counterparts. At the same time entanglement is at the heart of many physical phenomena. For example, it explains why interacting quantum systems, even when perfectly isolated from their environment, can relax to thermal equilibrium. Thus, techniques for detecting and quantifying entanglement based on experimental data are direly needed. We develop such techniques with a special focus on the application to experiments with ultra-cold atoms.
+Entanglement, which Erwin Schrödinger coined the characteristic treat of quantum mechanics, is the resource that renders many quantum technologies superior to their classical counterparts. At the same time entanglement is at the heart of many physical phenomena. For example, it explains why interacting quantum systems, even when perfectly isolated from their environment, can relax to thermal equilibrium. Thus, techniques for detecting and quantifying entanglement based on experimental data are direly needed. We develop such techniques taking into account the concrete measurement capabilities of quantum simulation platforms including cold atoms and photonic systems.
 

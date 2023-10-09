@@ -14,8 +14,8 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: Heidelberg University
-  url: "https://www.uni-heidelberg.de"
+- name: Jena University
+  url: "https://www.uni-jena.de/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: ""
@@ -39,9 +39,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:javahedi@gmail.com"  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/HANDLE
 - link: https://www.researchgate.net/profile/Javad-Vahedi
   icon_pack: ai
   icon: researchgate
