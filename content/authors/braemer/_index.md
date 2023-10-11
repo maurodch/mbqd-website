@@ -58,4 +58,4 @@ weight: 231
 ---
 Classical coffee always gets cold if you forget it on your table, but quantum coffee might escape that fate under the right circumstances. 
 I investigate this strange quantum phenomenon of so called many-body localization using numerical and analytical methods. 
-Mostly I study a spatially disordered Heisenberg XXZ model with long-range, power-law couplings, which can directly be realized by a cold gas of Rydberg atoms.
+Mostly, I study a spatially disordered Heisenberg XXZ model with long-range, power-law couplings, which can directly be realized by a cold gas of Rydberg atoms.
