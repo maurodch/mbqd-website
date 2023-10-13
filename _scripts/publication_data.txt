@@ -348,6 +348,13 @@ PhysRevA.105.012409:
   projects:
     - entanglement
   year: 2022
+PhysRevA.108.042410:
+  abstract: ""
+  day: 1
+  month: 10
+  projects:
+    - entanglement
+  year: 2023
 PhysRevA.86.063421:
   abstract: 'A model for the simulation of ensembles of laser-driven Rydberg-Rydberg
     interacting multilevel atoms is discussed. Our hybrid approach combines an exact
@@ -470,6 +477,13 @@ PhysRevLett.128.020402:
   month: 1
   projects: []
   year: 2022
+PhysRevLett.131.150201:
+  abstract: ""
+  day: 1
+  month: 10
+  projects:
+    - entanglement
+  year: 2023
 Rautenberg2020:
   abstract: ""
   day: 1
