@@ -568,6 +568,13 @@ Signoles2021:
   projects:
     - disorder
   year: 2021
+aasen2023universal:
+  abstract: ""
+  day: 1
+  month: 12
+  projects:
+    - quantum-ann
+  year: 2023
 bergh2021entanglement:
   abstract: 'We study experimentally accessible lower bounds on entanglement measures
     based on entropic uncertainty relations. Experimentally quantifying entanglement
