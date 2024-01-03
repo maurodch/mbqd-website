@@ -13,11 +13,11 @@ authors:
   - rieger
   - reh
   - gaerttner
-date: 2023-09-01
-doi: 10.48550/arXiv.2309.07556
+date: 2024-01-02
+doi: 10.1103/PhysRevA.109.012403
 projects:
   - quantum-ann
-publication: 'ArXiv 2309.07556'
+publication: 'Phys. Rev. A **109**, 012403'
 publication_types:
   - 2
 title: 'Sample-efficient estimation of entanglement entropy through supervised learning'
