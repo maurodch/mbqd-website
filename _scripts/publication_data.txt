@@ -692,6 +692,13 @@ euler2023detecting:
   projects:
     - entanglement
   year: 2023
+euler2024metronome:
+  abstract: ""
+  day: 1
+  month: 2
+  projects:
+    - disorder
+  year: 2024
 gaerttner2022detecting:
   abstract: ""
   day: 1
