@@ -21,14 +21,14 @@ organizations:
 # bio: ""
 
 # List each interest with a dash
- interests:
- - Quantum Information
- - Quantum Field Theory
- - Entanglement Entropy
- - Entanglement Measurements
- - Quantum Mechanics in Phase Space
- - Quantum Simulation
- - Multimode Bosonic Systems
+interests:
+- Quantum Information
+- Quantum Field Theory
+- Entanglement Entropy
+- Entanglement Measurements
+- Quantum Mechanics in Phase Space
+- Quantum Simulation
+- Multimode Bosonic Systems
 
 
 
