@@ -22,7 +22,13 @@ organizations:
 
 # List each interest with a dash
  interests:
- - ab
+ - Quantum Information
+ - Quantum Field Theory
+ - Entanglement Entropy
+ - Entanglement Measurements
+ - Quantum Mechanics in Phase Space
+ - Quantum Simulation
+ - Multimode Bosonic Systems
 
 
 
@@ -43,3 +49,12 @@ social:
 # Administration: >1000
 weight: 236
 ---
+Imagine the possibility to create a connection between two coins such that, given the result obtained by flipping one of them, you could always guess correctly the result obtainable by flipping the other one. One could say that this would be a fraud created by some hoaxer.
+
+But microscopic coins could do that. With no hoaxers. Or at least, if there are some, they are very good in hiding!
+
+The previous joke is linked to the concept of “Entanglement”, one of the most precious features to distinguish between classical and quantum phenomena.
+
+And what happens then if one generalises this study from the above example, containing two degrees of freedom, to a system with infinitely many? One would enter in the quantum field theory regime. This is the place that I am exploring by trying to simulate quantum field theories through optical platforms! My first project is exactly about measuring the entanglement in a multimode bosonic system and looking for the so-called Area Law.
+
+I truly love (well-posed) questions and working with them. I am always looking forward to new ideas and, if you have some, do not hesitate!
