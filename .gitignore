@@ -4,3 +4,6 @@
 # Hugo
 /resources/
 public/
+
+# for the Mac users
+**/.DS_Store
