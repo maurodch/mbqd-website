@@ -26,7 +26,7 @@ tags:
 - quantum-simulation
 
 image:
-  caption: "Photonic realization of multimode bosonic interference. Taken from https://quantum-journal.org/papers/q-2019-08-05-169/"
+  caption: "Photonic realization of multimode bosonic interference. Taken from [10.22331/q-2019-08-05-169](https://doi.org/10.22331/q-2019-08-05-169)"
   focal_point: Smart
 
 # links:
