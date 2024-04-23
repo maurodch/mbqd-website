@@ -79,7 +79,7 @@ def try_parse_month(month):
 
 ### Projects of publication
 
-PROJECTS =  ["disorder", "entanglement", "quantum-ann"]
+PROJECTS =  ["disorder", "entanglement", "quantum-ann","tomography","quantum-simulation"]
 
 def get_projects(bibdata, old_frontmatter):
     saved = DB.get(bibdata["ID"], {})
