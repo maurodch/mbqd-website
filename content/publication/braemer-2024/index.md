@@ -24,6 +24,6 @@ projects:
 publication: 'ArXiv 2407.01682'
 publication_types:
   - 2
-title: 'Cluster Truncated {{Wigner}} Approximation for Bond-Disordered {{Heisenberg}}
-  Spin Models'
+title: 'Cluster Truncated Wigner Approximation for Bond-Disordered Heisenberg Spin
+  Models'
 ---

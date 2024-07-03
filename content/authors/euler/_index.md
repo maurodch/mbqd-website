@@ -42,7 +42,10 @@ user_groups:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:niklas.euler@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:niklas.euler@physi.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:niklas.euler@uni-jena.de"  # For a direct email link, use "mailto:test@example.org".
 - link: https://orcid.org/0009-0009-2401-817X
   icon_pack: ai
   icon: orcid

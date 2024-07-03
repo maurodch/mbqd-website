@@ -32,7 +32,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:adrian.braemer@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:adrian.braemer@physi.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
 - link: https://scholar.google.com/citations?user=Jufb1bUAAAAJ&hl=en
   icon_pack: ai
   icon: google-scholar
