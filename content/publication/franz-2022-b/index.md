@@ -34,5 +34,5 @@ publication: 'Physical Review Research **6**, 033131'
 publication_types:
   - 2
 title: 'Observation of Anisotropy-Independent Magnetization Dynamics in Spatially
-  Disordered {{Heisenberg}} Spin Systems'
+  Disordered Heisenberg Spin Systems'
 ---
