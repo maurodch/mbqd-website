@@ -1,33 +1,38 @@
 ---
-abstract: 'A major goal toward understanding far-from-equilibrium dynamics of quantum
-  many-body systems consists in finding indications of universality in the sense that
-  the dynamics no longer depends on microscopic details of the system. We realize
-  a large range of many-body spin systems on a Rydberg atom quantum simulator by choosing
-  appropriate Rydberg state combinations. We use this platform to compare the magnetization
-  relaxation dynamics of disordered Heisenberg XX-, XXZ- and Ising Hamiltonians in
-  a scalable fashion. After appropriate rescaling of evolution time, the dynamics
-  collapse onto a single curve. We find that the observed universal behavior is captured
-  by theoretical models that only consider local pairs of spins. Associated to each
-  pair is a local quasi-conserved quantity, allowing us to describe the early time
-  dynamics of the system in terms of an integrable model similar to systems featuring
-  prethermalization. Since the dynamics of pairs are independent of the type of Hamiltonian
-  up to a scaling factor, this integrable model explains the observed universal relaxation
-  dynamics of disordered Heisenberg quantum spin systems. '
+abstract: 'An important step towards a comprehensive understanding of far-from-equilibrium
+  dynamics of quantum many-body systems is the identification of unifying features
+  that are independent of microscopic details of the system. We experimentally observe
+  such robust features in the magnetization relaxation dynamics of disordered Heisenberg
+  XX, XXZ, and Ising Hamiltonians. We realize these Heisenberg spin models with tunable
+  anisotropy parameter and power-law interactions in an ensemble of Rydberg atoms
+  by encoding the spin in suitable Rydberg state combinations. We consistently observe
+  stretched-exponential relaxation of magnetization for all considered spin models,
+  collapsing onto a single curve after appropriate rescaling of time. This robust
+  short-time relaxation behavior is explained by a perturbative treatment that exploits
+  the strong disorder in pairwise couplings, which leads to a description in terms
+  of approximately independent pairs of spins. In numerical simulations of small systems,
+  we show that these pairs of spins constitute approximate local integrals of motion,
+  which remain at least partially conserved on a timescale exceeding the duration
+  of the relaxation dynamics of the magnetization.                                                                               Published
+  by the American Physical Society                   2024'
 authors:
-  - 'Titus Franz'
-  - 'Sebastian Geier'
-  - 'Clément Hainaut'
-  - 'Nithiwadee Thaicharoen'
+  - 'T. Franz'
+  - 'S. Geier'
+  - 'C. Hainaut'
   - braemer
+  - 'N. Thaicharoen'
+  - 'M. Hornung'
+  - 'E. Braun'
   - gaerttner
-  - 'Gerhard Zürn'
-  - 'Matthias Weidemüller'
-date: 2022-09-01
-doi: 10.48550/arXiv.2209.08080
+  - 'G. Zürn'
+  - 'M. Weidemüller'
+date: 2024-08-01
+doi: 10.1103/PhysRevResearch.6.033131
 projects:
   - disorder
-publication: 'ArXiv 2209.08080'
+publication: 'Physical Review Research **6**, 033131'
 publication_types:
   - 2
-title: 'Observation of universal relaxation dynamics in disordered quantum spin systems'
+title: 'Observation of Anisotropy-Independent Magnetization Dynamics in Spatially
+  Disordered {{Heisenberg}} Spin Systems'
 ---
