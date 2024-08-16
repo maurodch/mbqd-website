@@ -1,6 +1,6 @@
 ---
 title: High-Harmonic Generation in Spin Chains with Broken Inversion Symmetry
-summary: High-Harmonic Generation in Spin Chains with Broken Inversion Symmetry
+summary: "Image source: https://physics.aps.org/articles/v7/s84"
 
 # Short title used in page links (if not set, defaults to title)
 # title_short: ANN
