@@ -213,7 +213,7 @@ for folder in publications.iterdir():
         
     print(bibdata)
     frontmatter = {}
-    frontmatter["title"] = bibdata["title"]
+    frontmatter["title"] = bibdata["title"].replace("{","").replace("}","") # remove extra curly braces that bibtex uses to enforce capitalization
     frontmatter["authors"] = list(map(replace_author, bibdata["author"]))
     frontmatter["publication_types"] = ["2"]
 

@@ -24,6 +24,6 @@ projects:
 publication: 'Physical Review B **110**, 054204'
 publication_types:
   - 2
-title: 'Cluster Truncated {{Wigner}} Approximation for Bond-Disordered {{Heisenberg}}
-  Spin Models'
+title: 'Cluster Truncated Wigner Approximation for Bond-Disordered Heisenberg Spin
+  Models'
 ---
