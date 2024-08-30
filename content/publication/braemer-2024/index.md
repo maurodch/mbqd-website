@@ -17,13 +17,13 @@ authors:
   - braemer
   - vahedi
   - gaerttner
-date: 2024-07-01
-doi: 10.48550/arXiv.2407.01682
+date: 2024-08-01
+doi: 10.1103/PhysRevB.110.054204
 projects:
   - disorder
-publication: 'ArXiv 2407.01682'
+publication: 'Physical Review B **110**, 054204'
 publication_types:
   - 2
-title: 'Cluster Truncated Wigner Approximation for Bond-Disordered Heisenberg Spin
-  Models'
+title: 'Cluster Truncated {{Wigner}} Approximation for Bond-Disordered {{Heisenberg}}
+  Spin Models'
 ---

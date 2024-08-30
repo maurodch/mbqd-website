@@ -682,7 +682,7 @@ braemerClusterTruncatedWigner2024:
     cTWA on the same conceptional footing as regular dTWA for single spins and yields
     some reduction in the Monte Carlo shot noise compared to the Gaussian scheme.'
   day: 1
-  month: 7
+  month: 8
   projects:
     - disorder
   year: 2024
@@ -866,6 +866,28 @@ geier2024timereversal:
     quantum information scrambling. '
   day: 1
   month: 2
+  projects: []
+  year: 2024
+geierTimereversalDipolarQuantum2024:
+  abstract: 'Time reversal in a macroscopic system contradicts daily experience. It
+    is practically impossible to restore a shattered cup to its original state by
+    just time reversing the microscopic dynamics that led to its breakage. Yet, with
+    the precise control capabilities provided by modern quantum technology, the unitary
+    evolution of a quantum system can be reversed in time. Here, we implement a time-reversal
+    protocol in a dipolar interacting, isolated many-body spin system represented
+    by Rydberg states in an atomic gas. By changing the states encoding the spin,
+    we flip the sign of the interaction Hamiltonian, and demonstrate the reversal
+    of the relaxation dynamics of the magnetization by letting a demagnetized many-body
+    state evolve back in time into a magnetized state. We elucidate the role of atomic
+    motion using the concept of a Loschmidt echo. Finally, by combining the approach
+    with Floquet engineering, we demonstrate time reversal for a large family of spin
+    models with different symmetries. Our method of state transfer is applicable across
+    a wide range of quantum simulation platforms and has applications far beyond quantum
+    many-body physics, reaching from quantum-enhanced sensing to quantum information
+    scrambling.                                                                               Published
+    by the American Physical Society                   2024'
+  day: 1
+  month: 8
   projects: []
   year: 2024
 https://doi.org/10.48550/arxiv.2206.01927:
