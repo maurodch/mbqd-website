@@ -27,11 +27,10 @@ interests:
 - Quantum Simulation
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Alumni
-#- MBQD
+# Uncomment the two lines below
+# user_groups:
+# - Researchers
+## - Alumni # change Researchers to Alumni if the person left the group
 
 social:
 - icon: envelope
@@ -59,4 +58,8 @@ social:
 # Researchers: 101-199 (PostDocs), 201-299 (PhD), 301-399 (Master), 401-499 (Bachelor)
 # Administration: >1000
 weight: 2
+
+#
+# Additionally, add the user to the associated projects by adding him/her as author in the appropriate project/<projectname>/index.md
+#
 ---

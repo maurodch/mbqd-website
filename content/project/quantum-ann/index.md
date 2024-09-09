@@ -18,6 +18,7 @@ authors:
 #- stock
 #- vahedi
 - jung
+- goerguen
 
 # Determines ordering of projects
 weight: 4
