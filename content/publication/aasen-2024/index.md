@@ -9,8 +9,8 @@ authors:
 date: 2024-09-06
 doi: 10.1038/s42005-024-01790-8
 projects:
-  - quantum-ann
-publication: 'Phys. Commun. **7**, 301 (2024)'
+  - tomography
+publication: 'Phys. Commun. **7**, 301'
 publication_types:
   - 2
 title: 'Readout error mitigated quantum state tomography tested on superconducting qubits'
