@@ -1,5 +1,5 @@
 ---
-title: Readout error mitigated quantum state tomography tested on superconducting qubits now in Communcation Physics!
+title: Readout error mitigated quantum state tomography tested on superconducting qubits is now in Communication Physics!
 subtitle: Noise in quantum systems can negate any potential benefits they have over classical computers. Here we explore how one can overcome the growing issue of readout errors in a superconducting qubit device.
 date: 2024-09-25
 authors:
@@ -32,7 +32,7 @@ Readout errors are broadly captured by misidentification of the measurement outc
 The goal of our work was to tackle a problem that is currently not sufficiently addressed within readout error mitigation, which are methods that capture a general set of readout errors, while light-weight enough to be applied to system sizes of up to 6 qubits. In this work, we develop such a protocol and verify its utility experimentally on a superconducting qubit chip. 
 
 <p align="center">
-<img style="width: 66%" src="featured.png">
+<img style="width: 75%" src="featured.png">
 </p>
 
 Our method consists of two stages: First, a calibration stage, where the measurement setup itself is characterized. We find out what imperfections there are and how they could affect the measured values. Second, we perform the experiment of interest, which in our case is quantum state tomography, an experiment that reconstructs the full quantum state of the system. The key insight of our procedure is that we directly integrate the readout noise, gained in the first step, into the state estimator used in the second step. 
