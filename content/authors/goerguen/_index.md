@@ -16,6 +16,8 @@ role: Master Student
 organizations:
 - name: Jena University
   url: "https://www.uni-jena.de"
+- name: Heidelberg University
+  url: "https://www.uni-heidelberg.de/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: ""
