@@ -26,6 +26,7 @@ organizations:
 interests:
 - Many-body Quantum Dynamics
 - Machine Learning
+- Neural Quantum States
 - Quantum Simulation
 
 # Organizational groups that you belong to (for People widget)
@@ -61,3 +62,6 @@ social:
 # Administration: >1000
 weight: 303
 ---
+Inspired by Eugene Wigner’s work, we can transform quantum dynamics into phase-space dynamics using quasi-probability distributions (QPDs), which encapsulate the complete behavior of the system. Solving the dynamics of a QPD enables the calculation of other observables, such as entanglement entropy.
+
+My research focuses on finding mappings to analytical partial differential equations in phase space for various continuous-variable, open bosonic many-body systems. I aim to capture these dynamics through a generative Neural Quantum States (NQS) ansatz, where neural networks serve as powerful function approximators. I aim to provide a scalable, accurate approach to simulate open quantum systems, pushing the boundaries of what can be calculated in quantum many-body dynamics.
