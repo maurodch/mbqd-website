@@ -59,17 +59,17 @@ subtitle:
   </div>
 
   <div class="funding-row">
-  <div class="funding-cell">
-    <a href="https://www.noa.uni-jena.de/">
-      <img src="/logos/sfb_noa.png" alt="SFB NOA">
-    </a>
-  </div>
-  <div class="funding-cell">
-    <span>We are funded by the DFG within the Collaborative Research Center NOA (SFB 1375, Nonlinear Optics down to Atomic scales). Within this collaboration, we work on characterizing and tailoring quantum states of light from unconventional sources (project A7) together with the group of René Sondenheimer.</span>
-  </div>
+    <div class="funding-cell">
+      <a href="https://www.noa.uni-jena.de/">
+        <img src="/logos/sfb_noa.png" alt="SFB NOA">
+      </a>
+    </div>
+    <div class="funding-cell">
+      <span>We are funded by the DFG within the Collaborative Research Center NOA (SFB 1375, Nonlinear Optics down to Atomic scales). Within this collaboration, we work on characterizing and tailoring quantum states of light from unconventional sources (project A7) together with the group of René Sondenheimer.</span>
+    </div>
   </div>
 
-    <div class="funding-row">
+  <div class="funding-row">
     <div class="funding-cell">
       <a href="https://www.isoquant-heidelberg.de/">
         <img src="/logos/isoquant.jpg" alt="SFB 1225 ISOQUANT">
